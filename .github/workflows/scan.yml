@@ -1,0 +1,41 @@
+name: NSE Swing Screener
+
+# NSE trading hours are 09:15-15:30 IST, which is 03:45-10:00 UTC (IST = UTC+5:30).
+# Split into three cron lines because a single cron expression can't express
+# "every 5 minutes, but only starting at :45 past a specific hour."
+on:
+  schedule:
+    - cron: '45,50,55 3 * * 1-5'   # 09:15, 09:20, 09:25 IST
+    - cron: '*/5 4-9 * * 1-5'      # 09:30 IST through 15:25 IST, every 5 min
+    - cron: '0 10 * * 1-5'         # 15:30 IST (market close)
+  workflow_dispatch: {}             # lets you also trigger a run manually from the GitHub website
+
+permissions:
+  contents: write   # needed so the workflow can save signals_log.csv back to the repo
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas pytz requests
+
+      - name: Run one scan pass
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python nse_screener_1_.py --once
+
+      - name: Save the signal log and sector cache back to the repo
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add signals_log.csv sector_cache.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Update signal log [skip ci]"
+          git push || echo "Nothing to push or a push conflict occurred — safe to ignore, next run will retry."

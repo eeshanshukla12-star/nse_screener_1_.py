@@ -186,3 +186,8 @@ ECLERX.NS,2023.7,1915.51,2240.08,4,108.19,432.77,8094.8,2.0,67.1,5.85,2.61,True,
 CRAFTSMAN.NS,11436.0,10945.23,12417.54,1,490.77,490.77,11436.0,2.0,71.7,4.1,4.63,True,33.46,2026-08-31 14:46:38,10929.5,10497.3,Consumer Cyclical,False,19234.6,
 KAJARIACER.NS,1245.5,1198.08,1340.34,10,47.42,474.21,12455.0,2.0,58.7,4.57,1.1,True,33.33,2026-08-31 14:46:42,1231.9,1217.19,Industrials,False,6779.6,
 TBOTEK.NS,1747.7,1659.07,1924.96,3,88.63,265.89,5243.1,2.0,66.6,2.38,0.56,True,32.62,2026-08-31 14:46:47,1737.9,1656.35,Consumer Cyclical,False,1536.5,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+ECLERX.NS,2021.9,1913.71,2238.28,4,108.19,432.77,8087.6,2.0,67.0,5.75,2.52,True,45.57,2026-08-31 14:55:58,1972.2,1864.23,Technology,False,41912.4,
+CRAFTSMAN.NS,11370.0,10879.23,12351.54,1,490.77,490.77,11370.0,2.0,71.0,4.21,4.03,True,34.79,2026-08-31 14:55:41,10929.5,10491.01,Consumer Cyclical,False,30542.4,
+KPRMILL.NS,1190.0,1138.73,1292.54,9,51.27,461.41,10710.0,2.0,65.5,4.55,1.93,True,34.15,2026-08-31 14:55:48,1167.5,1119.67,Consumer Cyclical,False,19832.4,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+ASTRAL.NS,1564.3,1504.96,1682.98,7,59.34,415.37,10950.1,2.0,63.8,4.35,0.51,True,33.92,2026-08-31 14:55:37,1556.4,1511.11,Industrials,False,8882.3,
+TBOTEK.NS,1743.6,1654.97,1920.86,5,88.63,443.14,8718.0,2.0,66.3,2.48,0.33,True,33.44,2026-08-31 14:55:55,1737.9,1655.96,Consumer Cyclical,False,164.3,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.

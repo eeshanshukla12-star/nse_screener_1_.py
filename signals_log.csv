@@ -1,0 +1,4 @@
+symbol,entry_price,stop_loss,target_price,shares,risk_per_share,allowed_risk,position_value,reward_risk_ratio,rsi,volume_ratio,extension_pct,live_bar,score,timestamp_ist,ideal_entry,pullback_entry,sector,insufficient_capital,remaining_capital,sector_warning
+NIACL.NS,194.51,186.46,210.61,62,8.05,499.01,12059.62,2.0,67.3,8.04,1.75,True,52.58,2026-08-31 09:21:30,191.16,182.99,Financial Services,False,37940.38,
+OIL.NS,494.0,473.39,535.23,24,20.61,494.74,11856.0,2.0,66.4,3.75,2.49,True,28.85,2026-08-31 09:21:27,482.0,468.45,Energy,False,26084.38,
+INDGN.NS,587.6,566.1,630.61,21,21.5,451.58,12339.6,2.0,70.5,1.26,1.88,True,18.72,2026-08-31 09:21:23,576.75,558.73,Healthcare,False,13744.78,

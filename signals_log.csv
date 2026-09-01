@@ -206,3 +206,7 @@ ASTRAL.NS,1573.4,1512.66,1694.88,7,60.74,425.19,11013.8,2.0,65.1,5.58,1.09,True,
 TBOTEK.NS,1748.5,1660.39,1924.73,5,88.11,440.57,8742.5,2.0,66.0,3.27,0.61,True,36.98,2026-08-31 15:22:21,1737.9,1659.52,Consumer Cyclical,False,18539.7,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
 KAJARIACER.NS,1243.8,1198.07,1335.26,10,45.73,457.29,12438.0,2.0,58.8,4.57,0.97,True,33.36,2026-08-31 15:22:17,1231.9,1217.14,Industrials,False,6101.7,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 VIJAYA.NS,1523.1,1451.54,1666.22,4,71.56,286.24,6092.4,2.0,64.5,2.68,1.0,True,30.3,2026-08-31 15:22:22,1508.0,1458.03,Healthcare,False,9.3,
+GRAPHITE.NS,739.0,703.79,809.42,14,35.21,492.97,10346.0,2.0,61.9,7.31,1.79,True,49.99,2026-09-01 09:22:58,726.0,704.21,Industrials,False,39654.0,
+COHANCE.NS,471.6,443.65,527.51,17,27.95,475.21,8017.2,2.0,59.0,4.57,0.94,True,34.63,2026-09-01 09:22:54,467.2,451.06,Healthcare,False,31636.8,
+HEG.NS,745.7,707.68,821.75,13,38.03,494.33,9694.1,2.0,68.5,2.0,0.29,True,32.02,2026-09-01 09:22:59,743.55,703.03,Industrials,False,21942.7,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+BAJAJ-AUTO.NS,12244.0,11962.43,12807.14,1,281.57,281.57,12244.0,2.0,71.2,1.47,2.25,True,20.52,2026-09-01 09:22:50,11974.0,11681.14,Consumer Cyclical,False,9698.7,

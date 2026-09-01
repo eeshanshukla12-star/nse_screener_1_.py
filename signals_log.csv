@@ -280,3 +280,8 @@ SAILIFE.NS,1540.5,1476.48,1668.54,7,64.02,448.12,10783.5,2.0,69.1,7.02,2.27,True
 USHAMART.NS,503.7,483.37,544.36,24,20.33,487.93,12088.8,2.0,54.4,6.93,0.48,True,42.2,2026-09-01 12:17:43,501.3,496.5,Basic Materials,False,17521.35,
 DEEPAKNTR.NS,1814.3,1738.84,1965.22,6,75.46,452.76,10885.8,2.0,62.6,3.24,0.74,True,29.83,2026-09-01 12:17:25,1800.9,1747.47,Basic Materials,False,6635.55,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.
 GABRIEL.NS,1431.0,1356.61,1579.78,4,74.39,297.56,5724.0,2.0,53.8,2.54,0.89,True,26.3,2026-09-01 12:17:27,1418.4,1409.09,Consumer Cyclical,False,911.55,
+CAPLIPOINT.NS,2720.2,2576.39,3007.81,3,143.81,431.42,8160.6,2.0,63.3,20.64,4.71,True,113.28,2026-09-01 12:29:11,2597.9,2550.39,Healthcare,False,41839.4,
+GRAPHITE.NS,738.2,701.33,811.95,13,36.87,479.35,9596.6,2.0,61.8,14.74,1.68,True,87.17,2026-09-01 12:29:14,726.0,704.14,Industrials,False,32242.8,
+SAILIFE.NS,1548.0,1483.23,1677.54,7,64.77,453.37,10836.0,2.0,69.8,7.18,2.77,True,52.79,2026-09-01 12:29:22,1506.3,1439.46,Healthcare,False,21406.8,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+USHAMART.NS,503.0,482.67,543.66,24,20.33,487.93,12072.0,2.0,54.1,8.48,0.34,True,49.89,2026-09-01 12:29:25,501.3,496.43,Basic Materials,False,9334.8,
+DEEPAKNTR.NS,1811.0,1735.54,1961.92,5,75.46,377.3,9055.0,2.0,62.2,3.14,0.56,True,29.4,2026-09-01 12:29:12,1800.9,1747.16,Basic Materials,False,279.8,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.

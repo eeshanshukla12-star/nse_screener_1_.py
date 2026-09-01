@@ -225,3 +225,8 @@ ENGINERSIN.NS,274.3,260.23,302.44,35,14.07,492.45,9600.5,2.0,71.7,13.25,4.08,Tru
 HEG.NS,753.5,714.76,830.99,12,38.74,464.91,9042.0,2.0,69.9,7.24,1.34,True,56.73,2026-09-01 09:52:43,743.55,703.77,Industrials,False,21577.6,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 SAILIFE.NS,1511.1,1449.56,1634.19,8,61.54,492.34,12088.8,2.0,66.3,6.89,0.32,True,54.89,2026-09-01 09:52:58,1506.3,1435.95,Healthcare,False,9488.8,
 TATATECH.NS,842.8,801.64,925.12,11,41.16,452.76,9270.8,2.0,60.0,3.54,0.33,True,35.61,2026-09-01 09:53:02,840.0,813.73,Technology,False,218.0,
+GRAPHITE.NS,744.5,707.63,818.25,13,36.87,479.35,9678.5,2.0,63.0,33.63,2.55,True,180.96,2026-09-01 10:05:00,726.0,704.74,Industrials,False,40321.5,
+SAILIFE.NS,1518.7,1456.51,1643.07,8,62.19,497.49,12149.6,2.0,67.1,10.38,0.82,True,71.6,2026-09-01 10:05:11,1506.3,1436.67,Healthcare,False,28171.9,
+HEG.NS,747.0,708.26,824.49,12,38.74,464.91,8964.0,2.0,68.8,9.62,0.46,True,69.84,2026-09-01 10:05:01,743.55,703.15,Industrials,False,19207.9,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+TBOTEK.NS,1742.0,1657.23,1911.54,5,84.77,423.86,8710.0,2.0,65.4,2.87,0.24,True,35.57,2026-09-01 10:05:13,1737.9,1658.91,Consumer Cyclical,False,10497.9,
+BAJAJ-AUTO.NS,12415.0,12120.04,13004.93,0,294.96,0,0,2.0,73.7,4.93,3.68,True,35.52,2026-09-01 10:04:57,11974.0,11697.42,Consumer Cyclical,True,10497.9,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.

@@ -210,3 +210,8 @@ GRAPHITE.NS,739.0,703.79,809.42,14,35.21,492.97,10346.0,2.0,61.9,7.31,1.79,True,
 COHANCE.NS,471.6,443.65,527.51,17,27.95,475.21,8017.2,2.0,59.0,4.57,0.94,True,34.63,2026-09-01 09:22:54,467.2,451.06,Healthcare,False,31636.8,
 HEG.NS,745.7,707.68,821.75,13,38.03,494.33,9694.1,2.0,68.5,2.0,0.29,True,32.02,2026-09-01 09:22:59,743.55,703.03,Industrials,False,21942.7,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 BAJAJ-AUTO.NS,12244.0,11962.43,12807.14,1,281.57,281.57,12244.0,2.0,71.2,1.47,2.25,True,20.52,2026-09-01 09:22:50,11974.0,11681.14,Consumer Cyclical,False,9698.7,
+GRAPHITE.NS,743.25,707.22,815.3,13,36.03,468.35,9662.25,2.0,62.8,17.94,2.38,True,102.72,2026-09-01 09:35:56,726.0,704.62,Industrials,False,40337.75,
+COHANCE.NS,472.0,444.05,527.91,17,27.95,475.21,8024.0,2.0,59.2,7.1,1.03,True,47.22,2026-09-01 09:35:53,467.2,451.09,Healthcare,False,32313.75,
+ENGINERSIN.NS,269.2,255.44,296.72,36,13.76,495.33,9691.2,2.0,69.5,7.37,2.14,True,47.14,2026-09-01 09:35:55,263.55,247.25,Industrials,False,22622.55,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+TATATECH.NS,844.9,803.74,927.22,12,41.16,493.91,10138.8,2.0,60.4,2.88,0.58,True,32.22,2026-09-01 09:36:10,840.0,813.93,Technology,False,12483.75,
+KAJARIACER.NS,1248.9,1205.56,1335.58,9,43.34,390.06,11240.1,2.0,59.9,3.1,1.38,True,26.11,2026-09-01 09:36:01,1231.9,1217.62,Industrials,False,1243.65,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.

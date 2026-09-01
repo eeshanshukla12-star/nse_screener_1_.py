@@ -300,3 +300,8 @@ GRAPHITE.NS,737.7,700.83,811.45,13,36.87,479.35,9590.1,2.0,61.7,12.47,1.61,True,
 SAILIFE.NS,1532.8,1466.85,1664.69,7,65.95,461.63,10729.6,2.0,68.4,8.45,1.76,True,60.6,2026-09-01 13:13:24,1506.3,1438.01,Healthcare,False,21664.3,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 GABRIEL.NS,1424.2,1349.81,1572.98,6,74.39,446.34,8545.2,2.0,53.0,2.1,0.41,True,24.24,2026-09-01 13:13:13,1418.4,1408.45,Consumer Cyclical,False,13119.1,
 BAJAJ-AUTO.NS,12396.0,12096.21,12995.57,1,299.79,299.79,12396.0,2.0,73.5,2.57,3.52,True,23.95,2026-09-01 13:13:07,11974.0,11695.61,Consumer Cyclical,False,723.1,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+CAPLIPOINT.NS,2671.9,2528.09,2959.51,3,143.81,431.42,8015.7,2.0,60.7,21.26,2.85,True,117.6,2026-09-01 13:23:04,2597.9,2545.79,Healthcare,False,41984.3,
+GRAPHITE.NS,738.65,701.78,812.4,13,36.87,479.35,9602.45,2.0,61.9,12.1,1.74,True,73.96,2026-09-01 13:23:06,726.0,704.18,Industrials,False,32381.85,
+SAILIFE.NS,1531.2,1465.25,1663.09,7,65.95,461.63,10718.4,2.0,68.3,8.42,1.65,True,60.57,2026-09-01 13:23:12,1506.3,1437.86,Healthcare,False,21663.45,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+USHAMART.NS,504.0,483.67,544.66,24,20.33,487.93,12096.0,2.0,54.6,10.23,0.54,True,58.71,2026-09-01 13:23:16,501.3,496.52,Basic Materials,False,9567.45,
+BAJAJ-AUTO.NS,12343.0,12043.21,12942.57,0,299.79,0,0,2.0,72.7,2.55,3.08,True,24.58,2026-09-01 13:23:02,11974.0,11690.57,Consumer Cyclical,True,9567.45,

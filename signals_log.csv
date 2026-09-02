@@ -391,3 +391,7 @@ IFCI.NS,94.46,88.34,106.7,81,6.12,495.55,7651.26,2.0,74.5,7.41,2.17,True,52.09,2
 POLYMED.NS,1814.4,1720.39,2002.43,5,94.01,470.06,9072.0,2.0,61.2,7.2,0.63,True,50.72,2026-09-02 11:34:24,1803.0,1745.05,Healthcare,False,23937.74,
 AEGISVOPAK.NS,275.85,260.36,306.83,32,15.49,495.6,8827.2,2.0,52.1,5.39,1.03,True,36.79,2026-09-02 11:34:01,273.05,272.98,Energy,False,15110.54,
 RBLBANK.NS,388.05,376.98,410.19,32,11.07,354.17,12417.6,2.0,57.3,2.94,0.27,True,26.75,2026-09-02 11:34:25,387.0,383.06,Financial Services,False,2692.94,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+NUVAMA.NS,1839.9,1753.58,2012.55,5,86.32,431.62,9199.5,2.0,59.8,10.52,0.82,True,63.18,2026-09-02 12:00:19,1825.0,1763.47,Financial Services,False,40800.5,
+IFCI.NS,94.64,88.52,106.88,81,6.12,495.55,7665.84,2.0,74.7,6.63,2.37,True,47.96,2026-09-02 12:00:15,92.45,83.13,Financial Services,False,33134.66,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+AEGISVOPAK.NS,277.45,261.96,308.43,32,15.49,495.6,8878.4,2.0,53.2,5.05,1.61,True,34.96,2026-09-02 12:00:09,273.05,273.14,Energy,False,24256.26,
+USHAMART.NS,507.0,487.06,546.88,24,19.94,478.54,12168.0,2.0,56.1,1.6,1.14,True,15.61,2026-09-02 12:00:23,501.3,496.81,Basic Materials,False,12088.26,

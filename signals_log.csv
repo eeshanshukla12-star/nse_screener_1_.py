@@ -425,3 +425,8 @@ CLEAN.NS,849.45,815.96,916.44,14,33.49,468.9,11892.3,2.0,63.9,4.67,0.6,True,37.5
 SAILIFE.NS,1572.1,1503.42,1709.46,7,68.68,480.75,11004.7,2.0,72.0,3.74,0.78,True,37.05,2026-09-02 13:23:18,1560.0,1449.52,Healthcare,False,17810.0,
 USHAMART.NS,503.35,483.41,543.23,24,19.94,478.54,12080.4,2.0,54.3,5.52,0.41,True,35.14,2026-09-02 13:23:21,501.3,496.46,Basic Materials,False,5729.6,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.
 KAJARIACER.NS,1260.9,1213.3,1356.11,4,47.6,190.4,5043.6,2.0,62.6,4.18,0.33,True,33.81,2026-09-02 13:23:14,1256.8,1221.39,Industrials,False,686.0,
+NUVAMA.NS,1852.1,1765.77,2024.75,5,86.32,431.62,9260.5,2.0,61.0,8.37,1.48,True,52.33,2026-09-02 13:33:23,1825.0,1764.63,Financial Services,False,40739.5,
+SAILIFE.NS,1569.2,1500.52,1706.56,7,68.68,480.75,10984.4,2.0,71.8,3.68,0.59,True,37.0,2026-09-02 13:33:26,1560.0,1449.24,Healthcare,False,29755.1,
+CLEAN.NS,851.15,817.66,918.14,14,33.49,468.9,11916.1,2.0,64.3,4.61,0.8,True,36.94,2026-09-02 13:33:15,844.4,817.82,Basic Materials,False,17839.0,
+USHAMART.NS,503.45,483.51,543.33,24,19.94,478.54,12082.8,2.0,54.3,5.32,0.43,True,34.11,2026-09-02 13:33:29,501.3,496.47,Basic Materials,False,5756.2,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.
+KAJARIACER.NS,1259.6,1212.0,1354.81,4,47.6,190.4,5038.4,2.0,62.3,4.05,0.22,True,33.21,2026-09-02 13:33:20,1256.8,1221.27,Industrials,False,717.8,

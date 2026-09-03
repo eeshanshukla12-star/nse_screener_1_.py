@@ -470,3 +470,8 @@ CLEAN.NS,865.9,831.43,934.84,14,34.47,482.55,12122.6,2.0,67.5,5.26,2.55,True,37.
 SAILIFE.NS,1592.7,1522.23,1733.64,7,70.47,493.27,11148.9,2.0,73.5,3.25,2.1,True,32.79,2026-09-02 15:21:35,1560.0,1451.48,Healthcare,False,17503.5,
 BEML.NS,2030.3,1943.18,2204.54,5,87.12,435.59,10151.5,2.0,66.0,3.32,1.62,True,30.06,2026-09-02 15:21:21,1998.0,1917.23,Industrials,False,7352.0,
 KAJARIACER.NS,1260.0,1210.34,1359.32,5,49.66,248.3,6300.0,2.0,61.0,3.44,0.25,True,29.57,2026-09-02 15:21:27,1256.8,1222.32,Industrials,False,1052.0,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+ANANTRAJ.NS,626.0,599.52,678.96,18,26.48,476.65,11268.0,2.0,58.6,39.62,2.3,True,209.74,2026-09-03 11:01:45,611.9,609.83,Real Estate,False,38732.0,
+RBLBANK.NS,406.4,393.63,431.93,30,12.77,382.98,12192.0,2.0,69.6,17.7,3.49,True,97.1,2026-09-03 11:01:54,392.7,385.4,Financial Services,False,26540.0,
+CHENNPETRO.NS,1439.3,1348.19,1621.53,5,91.11,455.57,7196.5,2.0,63.5,4.15,1.05,True,43.8,2026-09-03 11:01:47,1424.4,1352.28,Energy,False,19343.5,
+MAHABANK.NS,86.5,83.02,93.47,143,3.48,498.25,12369.5,2.0,63.9,5.68,0.36,True,38.97,2026-09-03 11:01:46,86.19,82.24,Financial Services,False,6974.0,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+AEGISVOPAK.NS,294.8,277.74,328.92,23,17.06,392.38,6780.4,2.0,63.2,3.41,2.25,True,30.39,2026-09-03 11:01:45,288.3,275.76,Energy,False,193.6,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.

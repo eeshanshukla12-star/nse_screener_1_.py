@@ -540,3 +540,8 @@ BRIGADE.NS,689.8,649.99,769.42,12,39.81,477.71,8277.6,2.0,72.1,12.03,4.03,True,7
 RBLBANK.NS,409.5,396.63,435.25,30,12.87,386.2,12285.0,2.0,71.0,9.45,4.28,True,54.61,2026-09-03 14:12:56,392.7,385.69,Financial Services,False,18074.0,
 CHENNPETRO.NS,1442.8,1356.09,1616.22,5,86.71,433.55,7214.0,2.0,63.9,1.56,1.29,True,30.38,2026-09-03 14:12:39,1424.4,1358.72,Energy,False,10860.0,
 MAHABANK.NS,86.46,82.92,93.55,125,3.54,442.5,10807.5,2.0,63.8,3.74,0.31,True,29.34,2026-09-03 14:12:37,86.19,82.24,Financial Services,False,52.5,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+ANANTRAJ.NS,631.65,604.56,685.82,18,27.09,487.54,11369.7,2.0,60.5,22.9,3.23,True,126.09,2026-09-03 14:24:19,611.9,610.37,Real Estate,False,38630.3,
+BRIGADE.NS,684.15,644.34,763.77,12,39.81,477.71,8209.8,2.0,71.2,12.72,3.17,True,79.54,2026-09-03 14:24:21,663.1,628.08,Real Estate,False,30420.5,⚠️ Sector Warning: You already have a signal in Real Estate today — taking this one too means doubling up on the same sector's risk.
+RBLBANK.NS,409.75,396.88,435.5,30,12.87,386.2,12292.5,2.0,71.2,9.24,4.34,True,53.47,2026-09-03 14:24:32,392.7,385.72,Financial Services,False,18128.0,
+GRANULES.NS,854.0,818.5,925.0,14,35.5,497.03,11956.0,2.0,54.2,4.73,0.71,True,32.35,2026-09-03 14:24:24,848.0,843.63,Healthcare,False,6172.0,
+CHENNPETRO.NS,1441.5,1354.79,1614.92,4,86.71,346.84,5766.0,2.0,63.8,1.51,1.2,True,30.27,2026-09-03 14:24:21,1424.4,1358.59,Energy,False,406.0,

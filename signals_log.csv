@@ -596,3 +596,8 @@ ANANTRAJ.NS,635.0,607.26,690.49,18,27.74,499.4,11430.0,2.0,61.5,13.45,3.78,True,
 EMCURE.NS,1915.6,1844.97,2056.86,6,70.63,423.77,11493.6,2.0,55.4,5.85,1.18,True,37.44,2026-09-04 10:16:44,1893.2,1886.42,Healthcare,False,16480.4,
 BEML.NS,2114.3,2023.11,2296.68,5,91.19,455.95,10571.5,2.0,71.7,4.06,3.25,True,30.8,2026-09-04 10:16:41,2047.8,1936.18,Industrials,False,5908.9,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 NIACL.NS,203.3,192.26,225.38,29,11.04,320.16,5895.7,2.0,70.5,2.98,0.94,True,28.19,2026-09-04 10:16:59,201.4,186.59,Financial Services,False,13.2,
+TITAGARH.NS,881.65,840.79,963.37,12,40.86,490.31,10579.8,2.0,61.3,13.93,3.46,True,75.98,2026-09-04 10:26:02,852.15,839.28,Industrials,False,39420.2,
+ANANTRAJ.NS,633.5,605.76,688.99,18,27.74,499.4,11403.0,2.0,61.1,12.2,3.53,True,72.55,2026-09-04 10:25:48,611.9,610.54,Real Estate,False,28017.2,
+EMCURE.NS,1915.6,1844.97,2056.86,6,70.63,423.77,11493.6,2.0,55.4,5.43,1.18,True,35.35,2026-09-04 10:25:52,1893.2,1886.42,Healthcare,False,16523.6,
+BEML.NS,2118.5,2027.31,2300.88,5,91.19,455.95,10592.5,2.0,72.0,3.81,3.45,True,29.26,2026-09-04 10:25:49,2047.8,1936.58,Industrials,False,5931.1,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+JMFINANCIL.NS,134.02,128.22,145.63,44,5.8,255.2,5896.88,2.0,62.4,3.09,0.46,True,27.27,2026-09-04 10:25:56,133.4,128.78,Financial Services,False,34.22,

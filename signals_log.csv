@@ -621,3 +621,8 @@ TITAGARH.NS,890.8,851.03,970.33,12,39.77,477.19,10689.6,2.0,63.6,13.24,4.54,True
 SPLPETRO.NS,769.0,735.39,836.21,14,33.61,470.48,10766.0,2.0,66.0,8.07,3.43,True,46.16,2026-09-04 11:15:10,743.5,716.14,Basic Materials,False,16800.4,
 EMCURE.NS,1917.9,1849.97,2053.76,6,67.93,407.58,11507.4,2.0,56.9,4.25,1.51,True,29.52,2026-09-04 11:15:02,1889.33,1880.87,Healthcare,False,5293.0,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 NIACL.NS,207.79,196.16,231.06,25,11.63,290.75,5194.75,2.0,70.6,2.37,1.95,True,24.68,2026-09-04 11:15:11,203.82,187.92,Financial Services,False,98.25,
+TITAGARH.NS,893.85,853.96,973.63,12,39.89,478.67,10726.2,2.0,64.1,12.89,4.89,True,69.45,2026-09-04 11:25:04,852.15,841.25,Industrials,False,39273.8,
+SPLPETRO.NS,765.4,731.79,832.61,14,33.61,470.48,10715.6,2.0,65.3,8.13,2.95,True,47.15,2026-09-04 11:25:03,743.5,715.79,Basic Materials,False,28558.2,
+EMCURE.NS,1919.4,1851.47,2055.26,6,67.93,407.58,11516.4,2.0,57.1,4.15,1.59,True,29.01,2026-09-04 11:24:55,1889.33,1881.01,Healthcare,False,17041.8,
+NIACL.NS,208.16,196.53,231.43,42,11.63,488.66,8742.72,2.0,70.7,2.29,2.13,True,24.04,2026-09-04 11:25:04,203.82,187.96,Financial Services,False,8299.08,
+CUB.NS,242.13,229.82,266.75,34,12.31,418.54,8232.42,2.0,65.3,1.44,0.94,True,22.09,2026-09-04 11:24:54,239.88,224.85,Financial Services,False,66.66,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.

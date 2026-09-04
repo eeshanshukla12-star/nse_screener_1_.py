@@ -616,3 +616,8 @@ SPLPETRO.NS,777.35,744.01,844.02,14,33.34,466.73,10882.9,2.0,67.5,6.63,4.55,True
 HAL.NS,4912.1,4774.08,5188.14,2,138.02,276.04,9824.2,2.0,57.3,4.4,0.45,True,34.96,2026-09-04 11:03:30,4890.0,4849.45,Industrials,False,18612.9,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 EMCURE.NS,1919.9,1851.97,2055.76,6,67.93,407.58,11519.4,2.0,57.2,4.4,1.62,True,30.31,2026-09-04 11:03:27,1889.33,1881.06,Healthcare,False,7093.5,
 NIACL.NS,207.31,195.68,230.58,34,11.63,395.42,7048.54,2.0,70.3,2.5,1.71,True,25.62,2026-09-04 11:03:45,203.82,187.88,Financial Services,False,44.96,
+GLAND.NS,2936.0,2816.36,3175.27,4,119.64,478.54,11744.0,2.0,67.4,20.96,0.2,True,126.5,2026-09-04 11:15:03,2930.0,2816.36,Healthcare,False,38256.0,
+TITAGARH.NS,890.8,851.03,970.33,12,39.77,477.19,10689.6,2.0,63.6,13.24,4.54,True,71.77,2026-09-04 11:15:11,852.15,840.96,Industrials,False,27566.4,
+SPLPETRO.NS,769.0,735.39,836.21,14,33.61,470.48,10766.0,2.0,66.0,8.07,3.43,True,46.16,2026-09-04 11:15:10,743.5,716.14,Basic Materials,False,16800.4,
+EMCURE.NS,1917.9,1849.97,2053.76,6,67.93,407.58,11507.4,2.0,56.9,4.25,1.51,True,29.52,2026-09-04 11:15:02,1889.33,1880.87,Healthcare,False,5293.0,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+NIACL.NS,207.79,196.16,231.06,25,11.63,290.75,5194.75,2.0,70.6,2.37,1.95,True,24.68,2026-09-04 11:15:11,203.82,187.92,Financial Services,False,98.25,

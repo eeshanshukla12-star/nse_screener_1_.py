@@ -666,3 +666,8 @@ SPLPETRO.NS,774.05,740.28,841.58,14,33.77,472.73,10836.7,2.0,67.0,6.14,4.11,True
 WOCKPHARMA.NS,2079.8,1971.63,2296.14,4,108.17,432.69,8319.2,2.0,63.8,3.64,1.7,True,29.13,2026-09-04 13:19:40,2045.0,1924.26,Healthcare,False,20344.7,
 HAL.NS,4917.0,4777.39,5196.21,2,139.61,279.21,9834.0,2.0,57.6,3.19,0.55,True,28.97,2026-09-04 13:19:30,4890.0,4849.92,Industrials,False,10510.7,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 ACMESOLAR.NS,416.75,390.37,469.52,18,26.38,474.91,7501.5,2.0,66.2,1.99,1.36,True,25.9,2026-09-04 13:19:24,411.15,392.46,Utilities,False,3009.2,
+GLAND.NS,2944.2,2821.49,3189.62,4,122.71,490.84,11776.8,2.0,67.9,13.08,0.48,True,86.67,2026-09-04 13:28:17,2930.0,2817.14,Healthcare,False,38223.2,
+TITAGARH.NS,873.45,833.19,953.98,12,40.26,483.17,10481.4,2.0,60.1,10.55,2.5,True,59.57,2026-09-04 13:28:27,852.15,839.31,Industrials,False,27741.8,
+SPLPETRO.NS,772.9,739.13,840.43,14,33.77,472.73,10820.6,2.0,66.7,6.05,3.95,True,35.34,2026-09-04 13:28:26,743.5,716.51,Basic Materials,False,16921.2,
+WOCKPHARMA.NS,2082.0,1973.83,2298.34,4,108.17,432.69,8328.0,2.0,63.9,3.57,1.81,True,28.67,2026-09-04 13:28:28,2045.0,1924.47,Healthcare,False,8593.2,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+HAL.NS,4918.8,4779.19,5198.01,1,139.61,139.61,4918.8,2.0,57.7,3.13,0.59,True,28.66,2026-09-04 13:28:18,4890.0,4850.09,Industrials,False,3674.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.

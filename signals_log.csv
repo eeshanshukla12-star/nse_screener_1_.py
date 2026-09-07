@@ -829,3 +829,8 @@ PPLPHARMA.NS,219.81,210.07,239.29,51,9.74,496.81,11210.31,2.0,65.2,2.18,0.55,Tru
 MOTILALOFS.NS,1056.1,1010.96,1146.38,11,45.14,496.53,11617.1,2.0,71.4,2.29,0.78,True,26.22,2026-09-07 15:05:08,1047.9,993.51,Financial Services,False,20799.59,
 WOCKPHARMA.NS,2200.1,2077.29,2445.71,4,122.81,491.23,8800.4,2.0,70.0,3.24,4.34,True,23.55,2026-09-07 15:05:14,2108.5,1951.3,Healthcare,False,11999.19,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 HOMEFIRST.NS,1239.3,1194.47,1328.96,9,44.83,403.47,11153.7,2.0,64.9,2.14,0.84,True,20.97,2026-09-07 15:05:01,1229.0,1195.45,Financial Services,False,845.49,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+CARTRADE.NS,3176.0,2972.53,3582.95,2,203.47,406.95,6352.0,2.0,66.9,4.67,2.97,True,40.56,2026-09-07 15:19:06,3084.3,2968.65,Consumer Cyclical,False,43648.0,
+PPLPHARMA.NS,220.15,210.41,239.63,51,9.74,496.81,11227.65,2.0,65.5,2.23,0.7,True,31.37,2026-09-07 15:19:19,218.61,211.19,Healthcare,False,32420.35,
+MOTILALOFS.NS,1055.0,1009.86,1145.28,11,45.14,496.53,11605.0,2.0,71.2,2.31,0.68,True,26.48,2026-09-07 15:19:18,1047.9,993.41,Financial Services,False,20815.35,
+PFOCUS.NS,311.7,291.83,351.44,25,19.87,496.74,7792.5,2.0,62.3,1.83,0.56,True,25.7,2026-09-07 15:19:20,309.95,291.93,Communication Services,False,13022.85,
+HOMEFIRST.NS,1239.8,1194.97,1329.46,10,44.83,448.29,12398.0,2.0,65.0,2.15,0.88,True,20.92,2026-09-07 15:19:09,1229.0,1195.5,Financial Services,False,624.85,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.

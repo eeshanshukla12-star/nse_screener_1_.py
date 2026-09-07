@@ -750,3 +750,8 @@ CDSL.NS,1432.1,1380.23,1535.84,8,51.87,414.94,11456.8,2.0,62.6,6.21,1.0,True,44.
 PPLPHARMA.NS,221.06,211.34,240.5,51,9.72,495.61,11274.06,2.0,66.3,3.61,1.12,True,37.61,2026-09-07 10:45:08,218.61,211.28,Healthcare,False,20967.14,
 ELGIEQUIP.NS,647.25,618.86,704.03,17,28.39,482.59,11003.25,2.0,62.7,3.93,0.29,True,34.9,2026-09-07 10:44:56,645.4,619.03,Industrials,False,9963.89,
 WOCKPHARMA.NS,2189.0,2070.18,2426.64,4,118.82,475.29,8756.0,2.0,69.5,5.16,3.82,True,33.83,2026-09-07 10:45:14,2108.5,1950.24,Healthcare,False,1207.89,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+CARTRADE.NS,3166.3,2970.88,3557.14,2,195.42,390.84,6332.6,2.0,66.5,5.15,2.66,True,43.42,2026-09-07 10:58:53,3084.3,2967.73,Consumer Cyclical,False,43667.4,
+CDSL.NS,1423.9,1372.03,1527.64,8,51.87,414.94,11391.2,2.0,61.3,5.85,0.42,True,42.53,2026-09-07 10:58:53,1417.9,1382.57,Financial Services,False,32276.2,
+MOTILALOFS.NS,1050.7,1005.87,1140.36,11,44.83,493.11,11557.7,2.0,70.5,4.24,0.27,True,36.79,2026-09-07 10:59:06,1047.9,993.0,Financial Services,False,20718.5,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+WOCKPHARMA.NS,2182.4,2063.58,2420.04,4,118.82,475.29,8729.6,2.0,69.2,5.06,3.5,True,33.72,2026-09-07 10:59:14,2108.5,1949.61,Healthcare,False,11988.9,
+GLAND.NS,3005.8,2881.28,3254.84,3,124.52,373.56,9017.4,2.0,72.0,1.96,1.24,True,28.6,2026-09-07 10:58:55,2969.0,2842.21,Healthcare,False,2971.5,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.

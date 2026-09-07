@@ -819,3 +819,8 @@ CDSL.NS,1422.0,1370.13,1525.74,8,51.87,414.94,11376.0,2.0,60.9,3.02,0.29,True,28
 MOTILALOFS.NS,1055.0,1009.86,1145.28,11,45.14,496.53,11605.0,2.0,71.2,2.18,0.68,True,25.86,2026-09-07 14:30:03,1047.9,993.41,Financial Services,False,20629.0,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
 WOCKPHARMA.NS,2196.6,2073.79,2442.21,4,122.81,491.23,8786.4,2.0,69.8,3.43,4.18,True,24.72,2026-09-07 14:30:15,2108.5,1950.96,Healthcare,False,11842.6,
 HOMEFIRST.NS,1237.8,1192.97,1327.46,9,44.83,403.47,11140.2,2.0,64.6,2.13,0.72,True,21.14,2026-09-07 14:29:55,1229.0,1195.31,Financial Services,False,702.4,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+CARTRADE.NS,3186.6,2983.13,3593.55,2,203.47,406.95,6373.2,2.0,67.4,4.72,3.32,True,40.34,2026-09-07 14:48:30,3084.3,2969.66,Consumer Cyclical,False,43626.8,
+MOTILALOFS.NS,1055.6,1010.46,1145.88,11,45.14,496.53,11611.6,2.0,71.3,2.3,0.73,True,26.36,2026-09-07 14:48:37,1047.9,993.46,Financial Services,False,32015.2,
+WOCKPHARMA.NS,2191.3,2068.49,2436.91,4,122.81,491.23,8765.2,2.0,69.6,3.28,3.93,True,24.29,2026-09-07 14:48:42,2108.5,1950.46,Healthcare,False,23250.0,
+HOMEFIRST.NS,1240.0,1195.17,1329.66,10,44.83,448.29,12400.0,2.0,65.1,2.11,0.9,True,20.7,2026-09-07 14:48:34,1229.0,1195.52,Financial Services,False,10850.0,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+CEMPRO.NS,1337.6,1268.5,1475.79,7,69.1,483.68,9363.2,2.0,55.9,1.26,1.74,True,12.45,2026-09-07 14:48:31,1314.7,1289.51,Industrials,False,1486.8,

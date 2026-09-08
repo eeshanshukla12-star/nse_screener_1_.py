@@ -884,3 +884,8 @@ PPLPHARMA.NS,229.0,218.55,249.9,47,10.45,491.13,10763.0,2.0,71.6,15.73,4.75,True
 HAL.NS,5056.9,4903.9,5362.9,2,153.0,306.0,10113.8,2.0,65.7,7.0,2.45,True,46.92,2026-09-08 11:01:29,4936.0,4864.38,Industrials,False,16778.9,
 BEML.NS,2145.9,2051.87,2333.96,5,94.03,470.14,10729.5,2.0,72.3,5.75,0.89,True,42.9,2026-09-08 11:01:25,2127.0,1977.05,Industrials,False,6049.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 PFOCUS.NS,323.25,302.96,363.83,18,20.29,365.22,5818.5,2.0,66.2,5.07,4.29,True,37.25,2026-09-08 11:01:33,309.95,293.03,Communication Services,False,230.9,
+PCBL.NS,325.9,312.88,351.94,38,13.02,494.68,12384.2,2.0,55.5,17.17,0.99,True,94.68,2026-09-08 11:15:29,322.7,319.73,Basic Materials,False,37615.8,
+DATAPATTNS.NS,4879.2,4603.89,5429.83,1,275.31,275.31,4879.2,2.0,61.5,13.7,4.57,True,78.42,2026-09-08 11:15:23,4666.0,4605.64,Industrials,False,32736.6,
+HAL.NS,5046.7,4893.7,5352.7,2,153.0,306.0,10093.4,2.0,65.2,6.45,2.24,True,44.55,2026-09-08 11:15:25,4936.0,4863.41,Industrials,False,22643.2,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+BEML.NS,2142.7,2048.67,2330.76,5,94.03,470.14,10713.5,2.0,72.2,5.27,0.74,True,40.73,2026-09-08 11:15:21,2127.0,1976.74,Industrials,False,11929.7,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+PFOCUS.NS,322.45,302.16,363.03,24,20.29,486.9,7738.8,2.0,66.0,4.81,4.03,True,36.25,2026-09-08 11:15:29,309.95,292.95,Communication Services,False,4190.9,

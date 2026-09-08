@@ -879,3 +879,8 @@ PPLPHARMA.NS,227.66,217.21,248.56,47,10.45,491.13,10700.02,2.0,70.8,16.37,4.14,T
 DATAPATTNS.NS,4887.6,4614.64,5433.51,1,272.96,272.96,4887.6,2.0,61.8,15.61,4.75,True,87.91,2026-09-08 10:46:43,4666.0,4606.44,Industrials,False,22022.48,
 HAL.NS,5038.4,4886.74,5341.72,2,151.66,303.32,10076.8,2.0,64.8,7.36,2.07,True,49.39,2026-09-08 10:46:45,4936.0,4862.61,Industrials,False,11945.68,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 PARADEEP.NS,164.74,155.63,182.95,54,9.11,491.73,8895.96,2.0,64.6,5.82,0.29,True,47.87,2026-09-08 10:46:55,164.26,153.78,Basic Materials,False,3049.72,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.
+PCBL.NS,324.85,311.83,350.89,38,13.02,494.68,12344.3,2.0,54.8,19.15,0.67,True,104.56,2026-09-08 11:01:32,322.7,319.63,Basic Materials,False,37655.7,
+PPLPHARMA.NS,229.0,218.55,249.9,47,10.45,491.13,10763.0,2.0,71.6,15.73,4.75,True,92.87,2026-09-08 11:01:32,218.61,212.03,Healthcare,False,26892.7,
+HAL.NS,5056.9,4903.9,5362.9,2,153.0,306.0,10113.8,2.0,65.7,7.0,2.45,True,46.92,2026-09-08 11:01:29,4936.0,4864.38,Industrials,False,16778.9,
+BEML.NS,2145.9,2051.87,2333.96,5,94.03,470.14,10729.5,2.0,72.3,5.75,0.89,True,42.9,2026-09-08 11:01:25,2127.0,1977.05,Industrials,False,6049.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+PFOCUS.NS,323.25,302.96,363.83,18,20.29,365.22,5818.5,2.0,66.2,5.07,4.29,True,37.25,2026-09-08 11:01:33,309.95,293.03,Communication Services,False,230.9,

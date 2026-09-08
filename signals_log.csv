@@ -939,3 +939,8 @@ PCBL.NS,323.9,310.88,349.94,38,13.02,494.68,12308.2,2.0,54.1,9.77,0.37,True,57.6
 HAL.NS,5050.0,4895.93,5358.14,2,154.07,308.14,10100.0,2.0,65.4,4.01,2.31,True,32.2,2026-09-08 13:46:46,4936.0,4863.72,Industrials,False,17195.8,
 PFOCUS.NS,315.45,295.16,356.03,24,20.29,486.9,7570.8,2.0,63.6,3.16,1.77,True,30.92,2026-09-08 13:46:50,309.95,292.29,Communication Services,False,9625.0,
 DIVISLAB.NS,9502.0,9190.21,10125.57,1,311.79,311.79,9502.0,2.0,72.5,2.11,2.01,True,30.9,2026-09-08 13:46:45,9315.0,8910.67,Healthcare,False,123.0,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+PPLPHARMA.NS,226.2,215.49,247.62,46,10.71,492.61,10405.2,2.0,69.9,8.87,3.47,True,60.38,2026-09-08 14:04:03,218.61,211.77,Healthcare,False,39594.8,
+PCBL.NS,323.7,310.68,349.74,38,13.02,494.68,12300.6,2.0,54.0,9.46,0.31,True,56.1,2026-09-08 14:04:02,322.7,319.52,Basic Materials,False,27294.2,
+HAL.NS,5047.0,4892.93,5355.14,2,154.07,308.14,10094.0,2.0,65.2,3.85,2.25,True,31.5,2026-09-08 14:03:56,4936.0,4863.43,Industrials,False,17200.2,
+PFOCUS.NS,314.25,293.96,354.83,24,20.29,486.9,7542.0,2.0,63.2,3.09,1.39,True,31.06,2026-09-08 14:04:04,309.95,292.17,Communication Services,False,9658.2,
+DIVISLAB.NS,9515.0,9203.21,10138.57,1,311.79,311.79,9515.0,2.0,72.7,2.01,2.15,True,30.23,2026-09-08 14:03:54,9315.0,8911.91,Healthcare,False,143.2,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.

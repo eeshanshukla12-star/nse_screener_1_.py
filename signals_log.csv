@@ -909,3 +909,8 @@ PCBL.NS,328.25,315.23,354.29,38,13.02,494.68,12473.5,2.0,57.1,13.07,1.72,True,74
 HAL.NS,5038.0,4883.93,5346.14,2,154.07,308.14,10076.0,2.0,64.8,5.21,2.07,True,38.66,2026-09-08 12:20:16,4936.0,4862.58,Industrials,False,16974.46,
 DIVISLAB.NS,9511.5,9199.71,10135.07,1,311.79,311.79,9511.5,2.0,72.7,2.64,2.11,True,33.41,2026-09-08 12:20:14,9315.0,8911.57,Healthcare,False,7462.96,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 LTFOODS.NS,461.45,434.74,514.86,16,26.71,427.36,7383.2,2.0,67.5,3.63,1.43,True,33.38,2026-09-08 12:20:20,454.95,437.08,Consumer Defensive,False,79.76,
+PPLPHARMA.NS,227.9,217.19,249.32,46,10.71,492.61,10483.4,2.0,71.0,11.9,4.25,True,74.42,2026-09-08 12:31:45,218.61,211.93,Healthcare,False,39516.6,
+PCBL.NS,327.55,314.53,353.59,38,13.02,494.68,12446.9,2.0,56.7,12.51,1.5,True,71.37,2026-09-08 12:31:44,322.7,319.89,Basic Materials,False,27069.7,
+DATAPATTNS.NS,4897.6,4621.23,5450.35,1,276.37,276.37,4897.6,2.0,62.0,10.01,4.96,True,59.81,2026-09-08 12:31:38,4666.0,4607.39,Industrials,False,22172.1,
+HAL.NS,5038.0,4883.93,5346.14,2,154.07,308.14,10076.0,2.0,64.8,5.11,2.07,True,38.16,2026-09-08 12:31:40,4936.0,4862.58,Industrials,False,12096.1,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+DIVISLAB.NS,9507.5,9195.71,10131.07,1,311.79,311.79,9507.5,2.0,72.6,2.59,2.07,True,33.23,2026-09-08 12:31:38,9315.0,8911.19,Healthcare,False,2588.6,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.

@@ -1029,3 +1029,8 @@ PAYTM.NS,1742.7,1656.16,1915.78,5,86.54,432.7,8713.5,2.0,67.4,4.24,2.6,True,45.0
 AEGISLOG.NS,1331.6,1239.03,1516.74,5,92.57,462.86,6658.0,2.0,54.2,4.87,0.32,True,38.64,2026-09-09 11:38:12,1327.3,1295.38,Energy,False,23486.24,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
 FINCABLES.NS,1367.1,1286.38,1528.54,6,80.72,484.31,8202.6,2.0,65.9,4.14,4.22,True,37.69,2026-09-09 11:38:16,1311.8,1240.01,Industrials,False,15283.64,
 ADANIENT.NS,3102.4,2967.02,3373.15,3,135.37,406.12,9307.2,2.0,57.9,6.36,4.63,True,36.0,2026-09-09 11:38:12,2965.0,3000.98,Energy,False,5976.44,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
+MRPL.NS,182.73,174.65,198.9,61,8.08,493.12,11146.53,2.0,62.6,7.08,1.52,True,48.26,2026-09-09 11:59:44,179.99,173.61,Energy,False,38853.47,
+PAYTM.NS,1741.0,1654.46,1914.08,5,86.54,432.7,8705.0,2.0,67.3,3.83,2.5,True,43.11,2026-09-09 11:59:45,1698.6,1622.6,Technology,False,30148.47,
+AEGISLOG.NS,1331.0,1238.43,1516.14,5,92.57,462.86,6655.0,2.0,54.1,4.42,0.28,True,36.42,2026-09-09 11:59:32,1327.3,1295.33,Energy,False,23493.47,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
+FINCABLES.NS,1367.5,1286.78,1528.94,6,80.72,484.31,8205.0,2.0,65.9,3.75,4.25,True,35.68,2026-09-09 11:59:38,1311.8,1240.05,Industrials,False,15288.47,
+ADANIENT.NS,3098.6,2963.23,3369.35,3,135.37,406.12,9295.8,2.0,57.6,5.67,4.51,True,32.54,2026-09-09 11:59:31,2965.0,3000.62,Energy,False,5992.67,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.

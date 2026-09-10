@@ -1160,3 +1160,8 @@ SONACOMS.NS,809.45,778.54,871.27,15,30.91,463.66,12141.75,2.0,57.1,1.48,0.38,Tru
 ASAHIINDIA.NS,976.3,946.26,1036.37,12,30.04,360.45,11715.6,2.0,66.7,2.25,0.67,True,24.34,2026-09-10 11:57:56,969.8,946.59,Consumer Cyclical,False,17004.75,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
 EMCURE.NS,1978.0,1906.29,2121.41,6,71.71,430.23,11868.0,2.0,64.9,2.23,0.91,True,22.07,2026-09-10 11:57:59,1960.1,1900.37,Healthcare,False,5136.75,
 JSWINFRA.NS,344.1,331.53,369.24,14,12.57,175.98,4817.4,2.0,58.5,1.4,1.61,True,18.13,2026-09-10 11:58:02,338.65,335.72,Industrials,False,319.35,
+REDINGTON.NS,398.7,376.98,442.15,23,21.72,499.63,9170.1,2.0,72.3,7.03,4.18,True,56.09,2026-09-10 12:16:27,382.7,360.91,Technology,False,40829.9,
+SONACOMS.NS,811.85,780.66,874.23,15,31.19,467.84,12177.75,2.0,57.8,1.7,0.68,True,26.34,2026-09-10 12:16:28,806.4,798.31,Consumer Cyclical,False,28652.15,
+ASAHIINDIA.NS,977.85,947.81,1037.92,12,30.04,360.45,11734.2,2.0,67.1,2.05,0.83,True,23.02,2026-09-10 12:16:12,969.8,946.74,Consumer Cyclical,False,16917.95,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+EMCURE.NS,1979.9,1908.19,2123.31,6,71.71,430.23,11879.4,2.0,65.1,2.11,1.01,True,21.34,2026-09-10 12:16:16,1960.1,1900.55,Healthcare,False,5038.55,
+EMMVEE.NS,336.25,322.78,363.19,14,13.47,188.58,4707.5,2.0,59.7,1.88,0.46,True,19.61,2026-09-10 12:16:16,334.7,326.35,Technology,False,331.05,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.

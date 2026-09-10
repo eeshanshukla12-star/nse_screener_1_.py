@@ -1109,3 +1109,7 @@ MRPL.NS,188.32,179.37,206.22,55,8.95,492.35,10357.6,2.0,67.1,2.58,0.71,True,25.6
 AEGISLOG.NS,1362.5,1280.2,1527.09,6,82.3,493.78,8175.0,2.0,57.6,1.64,0.28,True,23.81,2026-09-10 09:23:45,1358.7,1300.96,Energy,False,22642.3,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
 OIL.NS,510.9,492.19,548.33,24,18.71,449.14,12261.6,2.0,71.3,1.89,1.19,True,21.09,2026-09-10 09:23:58,504.9,483.22,Energy,False,10380.7,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
 ASAHIINDIA.NS,982.3,952.84,1041.22,10,29.46,294.6,9823.0,2.0,68.3,1.49,1.29,True,19.36,2026-09-10 09:23:46,969.8,947.16,Consumer Cyclical,False,557.7,
+JINDALSAW.NS,317.6,300.68,351.44,29,16.92,490.62,9210.4,2.0,71.0,2.41,0.73,True,30.94,2026-09-10 09:37:35,315.3,298.5,Basic Materials,False,40789.6,
+OIL.NS,511.25,492.54,548.68,24,18.71,449.14,12270.0,2.0,71.4,3.02,1.26,True,26.63,2026-09-10 09:37:39,504.9,483.25,Energy,False,28519.6,
+PCBL.NS,343.75,329.96,371.33,36,13.79,496.41,12375.0,2.0,66.0,2.68,0.66,True,25.11,2026-09-10 09:37:39,341.5,323.56,Basic Materials,False,16144.6,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.
+ASAHIINDIA.NS,986.05,956.59,1044.97,12,29.46,353.51,11832.6,2.0,69.2,2.53,1.68,True,23.85,2026-09-10 09:37:24,969.8,947.52,Consumer Cyclical,False,4312.0,

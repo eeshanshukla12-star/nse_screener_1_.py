@@ -1180,3 +1180,8 @@ SONACOMS.NS,809.5,778.24,872.02,15,31.26,468.88,12142.5,2.0,57.1,1.61,0.38,True,
 CHOLAFIN.NS,1864.9,1799.98,1994.74,6,64.92,389.51,11189.4,2.0,53.4,2.76,0.27,True,23.63,2026-09-10 13:02:50,1859.9,1850.33,Financial Services,False,17636.0,
 EMMVEE.NS,339.4,325.69,366.83,36,13.71,493.71,12218.4,2.0,61.9,2.66,1.4,True,23.52,2026-09-10 13:02:51,334.7,326.65,Technology,False,5417.6,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.
 ASAHIINDIA.NS,979.5,949.46,1039.58,5,30.04,150.2,4897.5,2.0,67.6,1.9,1.0,True,21.95,2026-09-10 13:02:47,969.8,946.89,Consumer Cyclical,False,520.1,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+REDINGTON.NS,393.0,371.28,436.45,23,21.72,499.63,9039.0,2.0,70.8,6.04,2.69,True,53.1,2026-09-10 13:17:12,382.7,360.37,Technology,False,40961.0,
+EMMVEE.NS,340.7,326.91,368.28,36,13.79,496.41,12265.2,2.0,62.7,3.17,1.79,True,25.91,2026-09-10 13:17:05,334.7,326.77,Technology,False,28695.8,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.
+CHOLAFIN.NS,1863.9,1798.98,1993.74,6,64.92,389.51,11183.4,2.0,53.3,2.7,0.22,True,23.28,2026-09-10 13:17:04,1859.9,1850.24,Financial Services,False,17512.4,
+EMCURE.NS,1971.9,1900.19,2115.31,6,71.71,430.23,11831.4,2.0,64.2,1.99,0.6,True,21.48,2026-09-10 13:17:05,1960.1,1899.79,Healthcare,False,5681.0,
+ASAHIINDIA.NS,979.45,949.41,1039.53,5,30.04,150.2,4897.25,2.0,67.6,1.8,1.0,True,21.46,2026-09-10 13:17:02,969.8,946.89,Consumer Cyclical,False,783.75,

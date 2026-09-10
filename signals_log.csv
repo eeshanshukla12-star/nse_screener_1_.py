@@ -1198,3 +1198,7 @@ REDINGTON.NS,394.85,373.13,438.3,23,21.72,499.63,9081.55,2.0,71.3,5.34,3.17,True
 EMMVEE.NS,341.3,327.2,369.5,35,14.1,493.5,11945.5,2.0,63.0,4.27,1.97,True,31.12,2026-09-10 14:00:02,334.7,326.83,Technology,False,28972.95,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.
 ASAHIINDIA.NS,977.0,946.96,1037.08,12,30.04,360.45,11724.0,2.0,66.9,1.65,0.74,True,21.22,2026-09-10 13:59:56,969.8,946.66,Consumer Cyclical,False,17248.95,
 EMCURE.NS,1978.6,1906.89,2122.01,6,71.71,430.23,11871.6,2.0,65.0,1.84,0.94,True,20.09,2026-09-10 14:00:02,1960.1,1900.43,Healthcare,False,5377.35,
+REDINGTON.NS,394.5,372.78,437.95,23,21.72,499.63,9073.5,2.0,71.2,5.18,3.08,True,48.26,2026-09-10 14:15:59,382.7,360.51,Technology,False,40926.5,
+EMMVEE.NS,342.1,328.0,370.3,35,14.1,493.5,11973.5,2.0,63.5,4.28,2.21,True,30.76,2026-09-10 14:15:49,334.7,326.91,Technology,False,28953.0,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.
+ASAHIINDIA.NS,976.7,946.66,1036.78,12,30.04,360.45,11720.4,2.0,66.8,1.58,0.71,True,20.93,2026-09-10 14:15:46,969.8,946.63,Consumer Cyclical,False,17232.6,
+EMCURE.NS,1983.3,1911.12,2127.65,6,72.18,433.06,11899.8,2.0,65.5,1.8,1.18,True,19.48,2026-09-10 14:15:49,1960.1,1900.88,Healthcare,False,5332.8,

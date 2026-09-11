@@ -1331,3 +1331,8 @@ GRANULES.NS,906.3,868.71,981.47,13,37.59,488.61,11781.9,2.0,66.2,4.81,0.5,True,3
 PAYTM.NS,1817.6,1725.03,2002.74,5,92.57,462.86,9088.0,2.0,71.4,2.4,3.34,True,34.1,2026-09-11 14:58:02,1758.9,1652.02,Technology,False,20968.6,
 CONCORDBIO.NS,1496.5,1417.87,1653.76,6,78.63,471.79,8979.0,2.0,56.2,3.32,0.25,True,32.21,2026-09-11 14:57:49,1492.8,1468.23,Healthcare,False,11989.6,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 FINCABLES.NS,1433.4,1335.31,1629.58,5,98.09,490.45,7167.0,2.0,70.2,1.87,0.31,True,30.57,2026-09-11 14:57:50,1429.0,1272.73,Industrials,False,4822.6,
+PAYTM.NS,1822.0,1729.12,2007.76,5,92.88,464.41,9110.0,2.0,71.6,2.45,3.59,True,34.04,2026-09-11 15:11:50,1758.9,1652.44,Technology,False,40890.0,
+FIVESTAR.NS,549.15,520.39,606.66,17,28.76,488.87,9335.55,2.0,57.6,4.69,2.07,True,31.68,2026-09-11 15:11:46,538.0,532.36,Financial Services,False,31554.45,
+CONCORDBIO.NS,1505.3,1426.54,1662.82,6,78.76,472.56,9031.8,2.0,57.2,3.27,0.89,True,31.42,2026-09-11 15:11:45,1492.0,1468.0,Healthcare,False,22522.65,
+LAURUSLABS.NS,1970.6,1890.34,2131.12,6,80.26,481.56,11823.6,2.0,68.0,1.47,0.8,True,27.98,2026-09-11 15:11:48,1955.0,1877.07,Healthcare,False,10699.05,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+ABSLAMC.NS,1114.5,1062.01,1219.48,9,52.49,472.4,10030.5,2.0,66.0,2.93,1.42,True,22.55,2026-09-11 15:11:43,1098.9,1047.57,Financial Services,False,668.55,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.

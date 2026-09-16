@@ -1472,3 +1472,4 @@ FIVESTAR.NS,551.05,522.29,608.56,17,28.76,488.87,9367.85,2.0,58.2,4.69,2.43,Fals
 CONCORDBIO.NS,1505.7,1426.94,1663.22,6,78.76,472.56,9034.2,2.0,57.3,3.22,0.92,False,31.17,2026-09-14 15:19:40,1492.0,1468.03,Healthcare,False,11648.85,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 LAURUSLABS.NS,1969.0,1888.74,2129.52,5,80.26,401.3,9845.0,2.0,67.8,1.5,0.72,False,28.32,2026-09-14 15:19:44,1955.0,1876.92,Healthcare,False,1803.85,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 LALPATHLAB.NS,2002.1,1918.22,2169.86,5,83.88,419.41,10010.5,2.0,67.2,12.24,2.04,True,74.72,2026-09-16 09:23:43,1962.0,1914.38,Healthcare,False,39989.5,
+PFOCUS.NS,327.45,309.17,364.02,27,18.28,493.67,8841.15,2.0,66.9,1.55,0.78,True,24.58,2026-09-16 12:18:26,324.9,300.44,Communication Services,False,41158.85,

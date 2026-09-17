@@ -1548,3 +1548,8 @@ ACE.NS,1176.0,1115.35,1297.3,8,60.65,485.19,9408.0,2.0,62.9,1.95,1.55,True,25.48
 JUBLFOOD.NS,483.55,467.83,514.99,25,15.72,392.95,12088.75,2.0,53.0,1.84,0.55,True,18.27,2026-09-17 12:20:49,480.9,479.69,Consumer Cyclical,False,20538.45,
 RAINBOW.NS,1482.4,1428.68,1589.84,8,53.72,429.77,11859.2,2.0,56.3,1.8,0.23,True,16.83,2026-09-17 12:20:58,1479.0,1457.37,Healthcare,False,8679.25,
 TEGA.NS,1857.9,1739.37,2094.97,4,118.53,474.13,7431.6,2.0,67.3,2.29,4.46,True,16.53,2026-09-17 12:21:02,1778.53,1666.88,Industrials,False,1247.65,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+PFOCUS.NS,335.05,315.17,374.8,25,19.88,496.88,8376.25,2.0,70.5,9.28,0.43,True,63.12,2026-09-17 12:32:23,333.6,305.74,Communication Services,False,41623.75,
+ECLERX.NS,1985.0,1868.71,2217.59,4,116.29,465.17,7940.0,2.0,61.1,2.38,0.82,True,29.42,2026-09-17 12:32:27,1968.8,1915.97,Technology,False,33683.75,
+ACE.NS,1172.9,1112.25,1294.2,8,60.65,485.19,9383.2,2.0,62.4,1.85,1.29,True,25.33,2026-09-17 12:32:10,1158.0,1129.77,Industrials,False,24300.55,
+JUBLFOOD.NS,483.55,467.77,515.11,25,15.78,394.55,12088.75,2.0,53.0,1.84,0.55,True,18.27,2026-09-17 12:32:18,480.9,479.69,Consumer Cyclical,False,12211.8,
+TEGA.NS,1863.6,1744.06,2102.68,4,119.54,478.16,7454.4,2.0,67.6,2.47,4.78,True,17.06,2026-09-17 12:32:26,1778.53,1667.43,Industrials,False,4757.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.

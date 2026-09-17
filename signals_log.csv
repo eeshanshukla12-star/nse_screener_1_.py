@@ -1553,3 +1553,7 @@ ECLERX.NS,1985.0,1868.71,2217.59,4,116.29,465.17,7940.0,2.0,61.1,2.38,0.82,True,
 ACE.NS,1172.9,1112.25,1294.2,8,60.65,485.19,9383.2,2.0,62.4,1.85,1.29,True,25.33,2026-09-17 12:32:10,1158.0,1129.77,Industrials,False,24300.55,
 JUBLFOOD.NS,483.55,467.77,515.11,25,15.78,394.55,12088.75,2.0,53.0,1.84,0.55,True,18.27,2026-09-17 12:32:18,480.9,479.69,Consumer Cyclical,False,12211.8,
 TEGA.NS,1863.6,1744.06,2102.68,4,119.54,478.16,7454.4,2.0,67.6,2.47,4.78,True,17.06,2026-09-17 12:32:26,1778.53,1667.43,Industrials,False,4757.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+ACE.NS,1176.8,1116.15,1298.1,8,60.65,485.19,9414.4,2.0,63.0,1.77,1.62,True,24.45,2026-09-17 12:51:04,1158.0,1130.14,Industrials,False,40585.6,
+CASTROLIND.NS,192.14,188.31,199.81,65,3.83,249.18,12489.1,2.0,68.7,2.15,0.68,True,20.59,2026-09-17 12:51:06,190.84,187.65,Energy,False,28096.5,
+TEGA.NS,1862.4,1742.11,2102.98,4,120.29,481.16,7449.6,2.0,67.5,3.08,4.72,True,20.16,2026-09-17 12:51:15,1778.53,1667.31,Industrials,False,20646.9,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+JUBLFOOD.NS,485.85,469.92,517.71,25,15.93,398.3,12146.25,2.0,54.3,1.86,1.03,True,18.42,2026-09-17 12:51:10,480.9,479.91,Consumer Cyclical,False,8500.65,

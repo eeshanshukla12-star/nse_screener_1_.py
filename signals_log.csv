@@ -1504,3 +1504,8 @@ PNB.NS,118.6,115.27,125.25,105,3.33,349.31,12453.0,2.0,60.7,3.92,0.34,True,32.44
 ECLERX.NS,1979.2,1866.27,2205.06,4,112.93,451.71,7916.8,2.0,60.6,2.94,0.53,True,32.26,2026-09-17 10:09:14,1968.8,1915.42,Technology,False,17608.0,
 ACE.NS,1164.3,1104.31,1284.29,8,59.99,479.96,9314.4,2.0,60.9,2.56,0.54,True,28.96,2026-09-17 10:08:45,1158.0,1128.95,Industrials,False,8293.6,
 CUB.NS,235.34,222.42,261.17,35,12.92,452.2,8236.9,2.0,59.6,2.16,1.01,True,24.7,2026-09-17 10:08:51,232.99,227.64,Financial Services,False,56.7,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+PFOCUS.NS,336.9,317.34,376.03,25,19.56,489.11,8422.5,2.0,71.1,8.87,0.99,True,60.34,2026-09-17 10:21:37,333.6,305.91,Communication Services,False,41577.5,
+AEGISVOPAK.NS,313.35,293.75,352.55,25,19.6,490.04,7833.75,2.0,69.0,7.9,0.76,True,54.9,2026-09-17 10:21:28,311.0,289.06,Energy,False,33743.75,
+IPCALAB.NS,2004.8,1939.56,2135.28,6,65.24,391.44,12028.8,2.0,65.8,4.21,0.45,True,37.99,2026-09-17 10:21:34,1995.9,1938.86,Healthcare,False,21714.95,
+PNB.NS,118.45,115.12,125.1,105,3.33,349.31,12437.25,2.0,60.3,3.48,0.21,True,30.2,2026-09-17 10:21:38,118.2,116.13,Financial Services,False,9277.7,
+CUB.NS,235.16,222.1,261.28,38,13.06,496.31,8936.08,2.0,59.4,3.17,0.93,True,29.77,2026-09-17 10:21:31,232.99,227.62,Financial Services,False,341.62,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.

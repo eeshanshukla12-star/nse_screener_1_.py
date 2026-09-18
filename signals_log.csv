@@ -1647,3 +1647,8 @@ PFOCUS.NS,343.0,323.35,382.3,25,19.65,491.25,8575.0,2.0,72.9,7.55,2.82,True,51.4
 REDINGTON.NS,404.2,382.09,448.43,22,22.11,486.51,8892.4,2.0,69.4,3.59,0.25,True,43.97,2026-09-18 11:15:31,403.2,375.44,Technology,False,24918.6,
 JYOTICNC.NS,1026.35,964.77,1149.51,8,61.58,492.64,8210.8,2.0,61.6,4.02,1.91,True,41.92,2026-09-18 11:15:26,1007.1,978.9,Industrials,False,16707.8,
 ACE.NS,1230.0,1164.03,1361.93,7,65.97,461.77,8610.0,2.0,70.3,4.61,1.38,True,36.93,2026-09-18 11:15:17,1213.2,1142.13,Industrials,False,8097.8,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+SPLPETRO.NS,851.2,800.59,952.43,9,50.61,455.53,7660.8,2.0,69.8,9.03,0.88,True,59.39,2026-09-18 11:24:41,843.8,772.58,Basic Materials,False,42339.2,
+PFOCUS.NS,339.75,320.1,379.05,25,19.65,491.25,8493.75,2.0,72.0,7.1,1.84,True,50.38,2026-09-18 11:24:39,333.6,306.18,Communication Services,False,33845.45,
+JYOTICNC.NS,1032.55,970.69,1156.27,8,61.86,494.87,8260.4,2.0,62.4,4.39,2.53,True,43.54,2026-09-18 11:24:33,1007.1,979.49,Industrials,False,25585.05,
+REDINGTON.NS,404.45,382.34,448.68,22,22.11,486.51,8897.9,2.0,69.5,3.38,0.31,True,42.88,2026-09-18 11:24:39,403.2,375.47,Technology,False,16687.15,
+ACE.NS,1227.9,1161.93,1359.83,7,65.97,461.77,8595.3,2.0,70.0,4.49,1.21,True,36.58,2026-09-18 11:24:24,1213.2,1141.93,Industrials,False,8091.85,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.

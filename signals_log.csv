@@ -1657,3 +1657,8 @@ PFOCUS.NS,340.2,320.55,379.5,25,19.65,491.25,8505.0,2.0,72.1,7.41,1.98,True,51.7
 JYOTICNC.NS,1039.7,977.41,1164.27,8,62.29,498.3,8317.6,2.0,63.3,4.52,3.24,True,43.32,2026-09-18 11:37:08,1007.1,980.17,Industrials,False,25481.5,
 ACE.NS,1229.2,1163.23,1361.13,7,65.97,461.77,8604.4,2.0,70.2,4.17,1.32,True,34.85,2026-09-18 11:37:00,1213.2,1142.06,Industrials,False,16877.1,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 PVRINOX.NS,1310.9,1237.14,1458.41,6,73.76,442.54,7865.4,2.0,64.3,3.41,2.25,True,33.94,2026-09-18 11:37:10,1282.0,1227.26,Communication Services,False,9011.7,⚠️ Sector Warning: You already have a signal in Communication Services today — taking this one too means doubling up on the same sector's risk.
+SPLPETRO.NS,853.0,802.39,954.23,9,50.61,455.53,7677.0,2.0,70.1,8.47,1.09,True,56.31,2026-09-18 11:57:30,843.8,772.75,Basic Materials,False,42323.0,
+PFOCUS.NS,341.2,321.55,380.5,25,19.65,491.25,8530.0,2.0,72.4,7.78,2.28,True,53.23,2026-09-18 11:57:27,333.6,306.32,Communication Services,False,33793.0,
+JYOTICNC.NS,1038.0,975.37,1163.26,7,62.63,438.41,7266.0,2.0,63.1,5.53,3.07,True,48.58,2026-09-18 11:57:21,1007.1,980.01,Industrials,False,26527.0,
+SYRMA.NS,1737.9,1621.34,1971.02,4,116.56,466.24,6951.6,2.0,70.9,6.73,4.82,True,46.87,2026-09-18 11:57:31,1658.0,1541.49,Technology,False,19575.4,
+ACMESOLAR.NS,430.0,405.2,479.61,20,24.8,496.07,8600.0,2.0,66.9,4.06,0.9,True,36.7,2026-09-18 11:57:06,426.15,404.37,Utilities,False,10975.4,

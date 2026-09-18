@@ -1732,3 +1732,8 @@ SPLPETRO.NS,863.8,813.19,965.03,9,50.61,455.53,7774.2,2.0,71.3,6.03,2.37,True,42
 PFOCUS.NS,344.35,324.35,384.35,25,20.0,499.96,8608.75,2.0,73.3,5.47,3.22,True,40.47,2026-09-18 15:05:46,333.6,306.62,Communication Services,False,26267.05,
 BEML.NS,2136.0,2010.67,2386.65,3,125.33,375.98,6408.0,2.0,64.3,4.71,1.25,True,39.77,2026-09-18 15:05:34,2109.6,2004.15,Industrials,False,19859.05,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 JUBLFOOD.NS,501.25,484.71,534.34,24,16.54,397.03,12030.0,2.0,61.8,5.41,2.98,True,37.47,2026-09-18 15:05:42,486.75,481.46,Consumer Cyclical,False,7829.05,
+JYOTICNC.NS,1047.9,982.91,1177.88,7,64.99,454.91,7335.3,2.0,64.2,7.36,4.05,True,56.43,2026-09-18 15:16:55,1007.1,980.96,Industrials,False,42664.7,
+JSWINFRA.NS,350.75,335.07,382.11,31,15.68,486.09,10873.25,2.0,61.2,8.74,0.44,True,56.08,2026-09-18 15:16:55,349.2,336.01,Industrials,False,31791.45,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+SHYAMMETL.NS,1100.0,1048.25,1203.5,9,51.75,465.75,9900.0,2.0,62.8,5.63,0.36,True,43.6,2026-09-18 15:16:59,1096.0,1058.63,Basic Materials,False,21891.45,
+SPLPETRO.NS,869.0,818.36,970.27,9,50.64,455.72,7821.0,2.0,71.9,6.28,2.99,True,42.97,2026-09-18 15:16:59,843.8,774.27,Basic Materials,False,14070.45,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.
+ACMESOLAR.NS,437.4,413.42,485.37,20,23.98,479.68,8748.0,2.0,67.6,5.68,2.64,True,42.9,2026-09-18 15:16:47,426.15,405.91,Utilities,False,5322.45,

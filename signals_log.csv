@@ -1627,3 +1627,8 @@ SYRMA.NS,1700.2,1587.6,1925.39,4,112.6,450.39,6800.8,2.0,68.8,6.99,2.55,True,51.
 ACE.NS,1235.9,1169.93,1367.83,7,65.97,461.77,8651.3,2.0,70.9,6.97,1.87,True,48.04,2026-09-18 10:26:21,1213.2,1142.69,Industrials,False,26010.4,
 ANANDRATHI.NS,2242.0,2172.69,2380.62,5,69.31,346.55,11210.0,2.0,63.3,5.14,0.89,True,41.07,2026-09-18 10:26:22,2222.3,2191.28,Financial Services,False,14800.4,
 PVRINOX.NS,1294.4,1221.68,1439.84,6,72.72,436.31,7766.4,2.0,62.6,4.04,0.97,True,38.91,2026-09-18 10:26:32,1282.0,1225.69,Communication Services,False,7034.0,⚠️ Sector Warning: You already have a signal in Communication Services today — taking this one too means doubling up on the same sector's risk.
+PFOCUS.NS,340.95,321.41,380.04,25,19.54,488.57,8523.75,2.0,72.4,7.64,2.2,True,52.58,2026-09-18 10:39:06,333.6,306.3,Communication Services,False,41476.25,
+SYRMA.NS,1723.2,1610.6,1948.39,4,112.6,450.39,6892.8,2.0,70.1,6.75,3.93,True,48.07,2026-09-18 10:39:08,1658.0,1540.09,Technology,False,34583.45,
+ACE.NS,1232.0,1166.03,1363.93,7,65.97,461.77,8624.0,2.0,70.5,6.2,1.55,True,44.64,2026-09-18 10:38:52,1213.2,1142.32,Industrials,False,25959.45,
+REDINGTON.NS,407.85,386.0,451.55,22,21.85,480.74,8972.7,2.0,70.4,3.03,1.15,True,40.0,2026-09-18 10:39:07,403.2,375.79,Technology,False,16986.75,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.
+PVRINOX.NS,1316.1,1242.57,1463.16,6,73.53,441.19,7896.6,2.0,64.8,4.43,2.66,True,38.47,2026-09-18 10:39:06,1282.0,1227.76,Communication Services,False,9090.15,⚠️ Sector Warning: You already have a signal in Communication Services today — taking this one too means doubling up on the same sector's risk.

@@ -1772,3 +1772,8 @@ SAPPHIRE.NS,238.49,225.44,264.6,38,13.05,496.06,9062.62,2.0,62.9,11.12,0.95,True
 JYOTICNC.NS,1097.2,1029.65,1232.31,7,67.55,472.87,7680.4,2.0,69.4,10.12,3.02,True,70.0,2026-09-21 10:21:49,1065.0,992.18,Industrials,False,23514.38,
 ENGINERSIN.NS,275.9,262.81,302.09,38,13.09,497.53,10484.2,2.0,62.4,6.87,1.06,True,51.76,2026-09-21 10:21:46,273.0,264.8,Industrials,False,13030.18,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 PFOCUS.NS,348.25,327.24,390.27,23,21.01,483.25,8009.75,2.0,74.9,7.55,4.39,True,49.16,2026-09-21 10:21:51,333.6,307.93,Communication Services,False,5020.43,
+CARBORUNIV.NS,1176.6,1102.17,1325.46,6,74.43,446.59,7059.6,2.0,61.1,51.71,3.09,True,265.95,2026-09-21 10:31:26,1141.3,1101.81,Industrials,False,42940.4,
+PCBL.NS,349.1,331.73,383.84,28,17.37,486.3,9774.8,2.0,65.5,12.67,3.28,True,72.99,2026-09-21 10:31:32,338.0,326.86,Basic Materials,False,33165.6,
+SAPPHIRE.NS,238.41,225.36,264.52,38,13.05,496.06,9059.58,2.0,62.8,10.12,0.91,True,69.64,2026-09-21 10:31:33,236.25,228.4,Consumer Cyclical,False,24106.02,
+JYOTICNC.NS,1100.2,1032.65,1235.31,7,67.55,472.87,7701.4,2.0,69.7,9.42,3.31,True,66.12,2026-09-21 10:31:30,1065.0,992.47,Industrials,False,16404.62,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+ENGINERSIN.NS,274.5,261.41,300.69,38,13.09,497.53,10431.0,2.0,61.6,6.3,0.55,True,49.02,2026-09-21 10:31:27,273.0,264.67,Industrials,False,5973.62,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.

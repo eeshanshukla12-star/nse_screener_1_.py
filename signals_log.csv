@@ -1747,3 +1747,8 @@ ACMESOLAR.NS,455.95,430.66,506.53,19,25.29,480.53,8663.05,2.0,72.6,1.9,3.46,True
 ACE.NS,1247.9,1185.82,1372.07,8,62.08,496.67,9983.2,2.0,72.5,1.41,0.52,True,21.41,2026-09-21 09:23:59,1241.5,1151.94,Industrials,False,23682.8,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 PCBL.NS,340.4,324.48,372.24,31,15.92,493.56,10552.4,2.0,61.4,1.39,0.71,True,19.64,2026-09-21 09:24:22,338.0,326.03,Basic Materials,False,13130.4,
 BLUEJET.NS,585.35,564.27,627.5,21,21.08,442.6,12292.35,2.0,55.0,1.89,1.3,True,17.18,2026-09-21 09:24:03,577.85,575.18,Healthcare,False,838.05,
+JYOTICNC.NS,1108.0,1040.45,1243.11,7,67.55,472.87,7756.0,2.0,70.4,7.6,4.04,True,56.11,2026-09-21 09:37:33,1065.0,993.21,Industrials,False,42244.0,
+PCBL.NS,351.5,334.35,385.81,29,17.15,497.45,10193.5,2.0,66.4,7.03,3.99,True,43.77,2026-09-21 09:37:36,338.0,327.09,Basic Materials,False,32050.5,
+SAPPHIRE.NS,239.51,226.65,265.23,38,12.86,488.69,9101.38,2.0,63.6,3.75,1.38,True,37.03,2026-09-21 09:37:37,236.25,228.5,Consumer Cyclical,False,22949.12,
+ENGINERSIN.NS,274.75,261.91,300.43,38,12.84,487.96,10440.5,2.0,61.7,3.71,0.64,True,36.08,2026-09-21 09:37:30,273.0,264.69,Industrials,False,12508.62,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+ACMESOLAR.NS,456.55,430.49,508.66,19,26.06,495.09,8674.45,2.0,72.8,3.74,3.6,True,31.17,2026-09-21 09:37:25,440.7,410.55,Utilities,False,3834.17,

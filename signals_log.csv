@@ -1877,3 +1877,8 @@ CARBORUNIV.NS,1190.0,1115.57,1338.86,6,74.43,446.59,7140.0,2.0,62.5,16.39,4.27,T
 ENGINERSIN.NS,285.7,271.69,313.73,35,14.01,490.5,9999.5,2.0,67.6,6.48,4.65,True,44.61,2026-09-21 15:21:38,273.0,265.73,Industrials,False,23680.5,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 SAPPHIRE.NS,238.48,225.43,264.59,38,13.05,496.06,9062.24,2.0,62.9,4.93,0.94,True,43.61,2026-09-21 15:21:47,236.25,228.41,Consumer Cyclical,False,14618.26,
 JYOTICNC.NS,1113.75,1044.08,1253.09,7,69.67,487.69,7796.25,2.0,70.8,4.76,4.58,True,41.25,2026-09-21 15:21:42,1065.0,993.76,Industrials,False,6822.01,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+AEGISLOG.NS,1498.8,1403.82,1688.76,5,94.98,474.91,7494.0,2.0,66.4,2.09,4.83,True,23.61,2026-09-22 09:23:13,1429.7,1344.08,Energy,False,42506.0,
+USHAMART.NS,529.0,506.45,574.1,22,22.55,496.06,11638.0,2.0,65.4,3.07,3.52,True,21.98,2026-09-22 09:23:26,511.0,499.41,Basic Materials,False,30868.0,
+ENGINERSIN.NS,283.65,269.66,311.64,35,13.99,489.75,9927.75,2.0,66.6,1.73,3.9,True,21.95,2026-09-22 09:23:17,273.0,265.54,Industrials,False,20940.25,
+CONCORDBIO.NS,1560.5,1486.8,1707.91,6,73.7,442.22,9363.0,2.0,63.5,1.44,2.19,True,21.69,2026-09-22 09:23:16,1527.1,1479.3,Healthcare,False,11577.25,
+PCBL.NS,351.3,334.27,385.35,29,17.02,493.72,10187.7,2.0,66.4,1.23,3.93,True,14.86,2026-09-22 09:23:22,338.0,327.07,Basic Materials,False,1389.55,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.

@@ -1982,3 +1982,8 @@ RBLBANK.NS,418.4,402.11,450.97,29,16.29,472.29,12133.6,2.0,67.0,3.36,0.6,True,31
 FINCABLES.NS,1458.0,1348.09,1677.82,4,109.91,439.64,5832.0,2.0,67.4,1.72,1.62,True,31.25,2026-09-22 13:55:38,1434.7,1330.77,Industrials,False,24783.9,
 CONCORDBIO.NS,1539.0,1465.3,1686.41,6,73.7,442.22,9234.0,2.0,61.2,1.67,0.78,True,23.93,2026-09-22 13:55:37,1527.1,1477.26,Healthcare,False,15549.9,
 JSWINFRA.NS,368.4,350.82,403.55,28,17.58,492.15,10315.2,2.0,69.1,3.02,3.21,True,23.5,2026-09-22 13:55:40,356.95,338.88,Industrials,False,5234.7,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+GABRIEL.NS,1448.0,1362.94,1618.12,5,85.06,425.3,7240.0,2.0,59.7,22.26,4.66,True,116.46,2026-09-22 14:10:13,1383.5,1356.85,Consumer Cyclical,False,42760.0,
+ENGINERSIN.NS,293.7,278.49,324.13,32,15.21,486.86,9398.4,2.0,71.1,5.07,2.37,True,39.26,2026-09-22 14:10:12,286.9,268.36,Industrials,False,33361.6,
+FINCABLES.NS,1456.1,1349.07,1670.17,4,107.03,428.13,5824.4,2.0,66.8,1.53,1.49,True,30.66,2026-09-22 14:10:13,1434.7,1337.68,Industrials,False,27537.2,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+RBLBANK.NS,418.8,402.78,450.85,29,16.02,464.67,12145.2,2.0,62.3,2.73,0.7,True,29.91,2026-09-22 14:10:18,415.9,403.93,Financial Services,False,15392.0,
+JSWINFRA.NS,367.75,350.44,402.38,28,17.31,484.8,10297.0,2.0,69.4,2.56,3.03,True,21.57,2026-09-22 14:10:15,356.95,340.01,Industrials,False,5095.0,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.

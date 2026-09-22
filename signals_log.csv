@@ -1962,3 +1962,8 @@ FINCABLES.NS,1457.5,1347.59,1677.32,4,109.91,439.64,5830.0,2.0,67.4,1.91,1.59,Tr
 JSWINFRA.NS,368.9,351.32,404.05,28,17.58,492.15,10329.2,2.0,69.3,3.58,3.35,True,26.11,2026-09-22 13:02:32,356.95,338.93,Industrials,False,25479.2,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 USHAMART.NS,532.6,510.05,577.7,22,22.55,496.06,11717.2,2.0,66.6,3.72,4.23,True,24.16,2026-09-22 13:02:39,511.0,499.75,Basic Materials,False,13762.0,
 CONCORDBIO.NS,1538.2,1464.5,1685.61,6,73.7,442.22,9229.2,2.0,61.1,1.6,0.73,True,23.58,2026-09-22 13:02:27,1527.1,1477.18,Healthcare,False,4532.8,
+GABRIEL.NS,1416.4,1334.77,1579.66,6,81.63,489.79,8498.4,2.0,56.9,8.99,2.38,True,51.43,2026-09-22 13:15:13,1383.5,1359.26,Consumer Cyclical,False,41501.6,
+TBOTEK.NS,1733.0,1651.04,1896.93,6,81.96,491.79,10398.0,2.0,58.7,3.96,0.25,True,36.26,2026-09-22 13:15:21,1728.7,1681.85,Consumer Cyclical,False,31103.6,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+FINCABLES.NS,1455.4,1345.49,1675.22,4,109.91,439.64,5821.6,2.0,67.3,1.85,1.44,True,32.11,2026-09-22 13:15:13,1434.7,1330.52,Industrials,False,25282.0,
+JSWINFRA.NS,368.7,351.12,403.85,28,17.58,492.15,10323.6,2.0,69.3,3.43,3.29,True,25.47,2026-09-22 13:15:16,356.95,338.91,Industrials,False,14958.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
+USHAMART.NS,531.35,508.8,576.45,22,22.55,496.06,11689.7,2.0,66.2,3.71,3.98,True,24.49,2026-09-22 13:15:22,511.0,499.63,Basic Materials,False,3268.7,

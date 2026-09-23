@@ -2028,3 +2028,8 @@ REDINGTON.NS,415.7,393.82,459.46,22,21.88,481.33,9145.4,2.0,70.3,1.3,0.61,True,3
 FINCABLES.NS,1478.3,1376.18,1682.54,4,102.12,408.47,5913.2,2.0,68.3,1.27,0.29,True,30.53,2026-09-23 09:38:02,1474.0,1352.11,Industrials,False,28187.4,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 MOTILALOFS.NS,1041.9,1000.71,1124.27,11,41.19,453.04,11460.9,2.0,60.1,2.53,1.16,True,27.43,2026-09-23 09:38:12,1030.0,1005.37,Financial Services,False,16726.5,
 RBLBANK.NS,426.75,412.04,456.17,29,14.71,426.61,12375.75,2.0,65.8,1.78,0.55,True,24.49,2026-09-23 09:38:14,424.4,406.48,Financial Services,False,4350.75,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+WOCKPHARMA.NS,2316.0,2173.03,2601.94,3,142.97,428.91,6948.0,2.0,68.2,6.04,3.07,True,44.58,2026-09-23 09:54:10,2247.0,2102.01,Healthcare,False,43052.0,
+WELCORP.NS,2830.0,2623.6,3242.8,2,206.4,412.8,5660.0,2.0,70.0,1.33,1.16,True,41.58,2026-09-23 09:54:11,2797.6,2520.08,Basic Materials,False,37392.0,
+MOTILALOFS.NS,1042.8,1000.86,1126.67,11,41.94,461.29,11470.8,2.0,60.3,5.24,1.24,True,40.93,2026-09-23 09:54:03,1030.0,1005.45,Financial Services,False,25921.2,
+RADICO.NS,4585.8,4431.76,4893.88,2,154.04,308.08,9171.6,2.0,57.4,3.68,1.01,True,30.19,2026-09-23 09:54:06,4539.9,4477.71,Consumer Defensive,False,16749.6,
+SPLPETRO.NS,888.75,837.8,990.64,9,50.95,458.52,7998.75,2.0,74.9,2.93,1.13,True,29.27,2026-09-23 09:54:08,878.8,798.49,Basic Materials,False,8750.85,⚠️ Sector Warning: You already have a signal in Basic Materials today — taking this one too means doubling up on the same sector's risk.

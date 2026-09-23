@@ -2078,3 +2078,8 @@ MOTILALOFS.NS,1043.0,1000.1,1128.8,11,42.9,471.9,11473.0,2.0,60.3,5.6,1.26,True,
 IDFCFIRSTB.NS,88.7,86.51,93.08,140,2.19,306.9,12418.0,2.0,63.3,5.09,1.76,True,37.8,2026-09-23 11:51:58,87.17,85.93,Financial Services,False,19220.1,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
 RADICO.NS,4598.1,4442.28,4909.74,2,155.82,311.64,9196.2,2.0,58.0,2.83,1.28,True,25.97,2026-09-23 11:52:03,4539.9,4478.88,Consumer Defensive,False,10023.9,
 SAIL.NS,181.73,174.25,196.69,55,7.48,411.4,9995.15,2.0,51.7,3.92,1.07,True,25.7,2026-09-23 11:52:04,179.8,180.47,Basic Materials,False,28.75,
+WOCKPHARMA.NS,2290.0,2142.96,2584.09,3,147.04,441.13,6870.0,2.0,67.0,5.74,1.91,True,44.61,2026-09-23 12:09:49,2247.0,2099.54,Healthcare,False,43130.0,
+IDFCFIRSTB.NS,88.55,86.36,92.93,141,2.19,309.09,12485.55,2.0,62.9,6.33,1.58,True,44.32,2026-09-23 12:09:41,87.17,85.92,Financial Services,False,30644.45,
+MOTILALOFS.NS,1042.3,999.4,1128.1,11,42.9,471.9,11465.3,2.0,60.2,5.17,1.19,True,40.61,2026-09-23 12:09:44,1030.0,1005.41,Financial Services,False,19179.15,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+SAIL.NS,184.36,176.59,199.9,64,7.77,497.35,11799.04,2.0,54.5,4.34,2.54,True,27.63,2026-09-23 12:09:47,179.8,180.72,Basic Materials,False,7380.11,
+RADICO.NS,4600.0,4444.18,4911.64,1,155.82,155.82,4600.0,2.0,58.1,2.66,1.32,True,25.12,2026-09-23 12:09:46,4539.9,4479.06,Consumer Defensive,False,2780.11,

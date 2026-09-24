@@ -2271,3 +2271,8 @@ MCX.NS,3429.5,3277.5,3733.51,3,152.0,456.01,10288.5,2.0,64.6,2.6,1.64,True,29.33
 DIVISLAB.NS,9647.5,9354.09,10234.32,1,293.41,293.41,9647.5,2.0,68.4,1.36,0.24,True,27.69,2026-09-24 14:46:21,9624.0,9264.28,Healthcare,False,21458.8,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 CARBORUNIV.NS,1312.1,1231.67,1472.96,6,80.43,482.59,7872.6,2.0,74.7,3.02,3.08,True,22.25,2026-09-24 14:46:20,1272.9,1143.02,Industrials,False,13586.2,
 LALPATHLAB.NS,1972.7,1894.16,2129.77,6,78.54,471.21,11836.2,2.0,63.9,1.21,0.68,True,20.18,2026-09-24 14:46:21,1959.4,1915.04,Healthcare,False,1750.0,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+CAPLIPOINT.NS,2876.0,2721.0,3185.99,3,155.0,464.99,8628.0,2.0,64.5,9.66,1.27,True,63.7,2026-09-24 15:01:52,2840.0,2709.18,Healthcare,False,41372.0,
+MCX.NS,3428.6,3276.6,3732.61,3,152.0,456.01,10285.8,2.0,64.5,2.56,1.62,True,29.15,2026-09-24 15:02:01,3374.0,3256.61,Financial Services,False,31086.2,
+CARBORUNIV.NS,1305.3,1224.87,1466.16,6,80.43,482.59,7831.8,2.0,74.3,2.94,2.55,True,22.53,2026-09-24 15:01:52,1272.9,1142.37,Industrials,False,23254.4,
+ZYDUSLIFE.NS,1187.5,1147.06,1268.37,10,40.44,404.36,11875.0,2.0,62.2,1.35,0.81,True,18.3,2026-09-24 15:02:08,1178.0,1146.04,Healthcare,False,11379.4,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+SAIL.NS,186.21,177.97,202.69,60,8.24,494.49,11172.6,2.0,56.3,1.58,0.27,True,17.16,2026-09-24 15:02:05,185.7,181.34,Basic Materials,False,206.8,

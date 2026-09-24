@@ -2204,3 +2204,8 @@ ABDL.NS,688.5,656.22,753.05,15,32.28,484.15,10327.5,2.0,70.6,7.21,3.69,True,43.3
 MCX.NS,3440.0,3289.82,3740.36,3,150.18,450.55,10320.0,2.0,65.1,4.07,1.96,True,36.21,2026-09-24 11:21:56,3374.0,3257.69,Financial Services,False,20652.5,
 DIVISLAB.NS,9641.0,9342.71,10237.57,1,298.29,298.29,9641.0,2.0,68.2,1.4,1.9,True,26.38,2026-09-24 11:21:48,9461.5,9225.56,Healthcare,False,11011.5,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
 SAIL.NS,187.56,179.32,204.04,58,8.24,477.92,10878.48,2.0,57.6,3.11,1.0,True,24.69,2026-09-24 11:22:01,185.7,181.47,Basic Materials,False,133.02,
+CAPLIPOINT.NS,2901.0,2743.05,3216.9,3,157.95,473.85,8703.0,2.0,65.4,15.18,2.15,True,90.02,2026-09-24 11:31:14,2840.0,2701.83,Healthcare,False,41297.0,
+ABDL.NS,688.0,655.72,752.55,15,32.28,484.15,10320.0,2.0,70.5,6.9,3.61,True,41.9,2026-09-24 11:31:12,664.0,634.81,Consumer Defensive,False,30977.0,
+ASAHIINDIA.NS,977.1,943.89,1043.53,12,33.21,398.56,11725.2,2.0,60.5,4.63,0.25,True,36.91,2026-09-24 11:31:12,974.7,957.58,Consumer Cyclical,False,19251.8,
+MCX.NS,3420.3,3270.12,3720.66,3,150.18,450.55,10260.9,2.0,64.2,3.9,1.37,True,36.22,2026-09-24 11:31:20,3374.0,3255.81,Financial Services,False,8990.9,
+DIVISLAB.NS,9652.0,9353.71,10248.57,0,298.29,0,0,2.0,68.4,1.42,2.01,True,26.3,2026-09-24 11:31:15,9461.5,9226.6,Healthcare,True,8990.9,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.

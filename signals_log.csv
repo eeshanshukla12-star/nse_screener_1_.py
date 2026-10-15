@@ -2408,3 +2408,7 @@ COHANCE.NS,461.3,436.13,511.64,19,25.17,478.19,8764.7,2.0,56.2,5.93,1.16,True,36
 LEMONTREE.NS,113.74,108.8,123.61,101,4.94,498.54,11487.74,2.0,65.8,2.99,0.25,True,23.95,2026-10-15 14:06:13,113.46,109.13,Consumer Cyclical,False,29747.56,
 INDHOTEL.NS,748.0,722.28,799.44,16,25.72,411.51,11968.0,2.0,59.5,2.83,2.15,True,21.43,2026-10-15 14:06:11,732.25,725.56,Consumer Cyclical,False,17779.56,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
 SHYAMMETL.NS,1155.0,1105.77,1253.46,10,49.23,492.32,11550.0,2.0,68.9,1.81,0.79,True,20.63,2026-10-15 14:06:19,1146.0,1084.14,Basic Materials,False,6229.56,
+COHANCE.NS,461.25,436.08,511.59,19,25.17,478.19,8763.75,2.0,56.2,5.78,1.15,True,36.11,2026-10-15 14:16:33,456.0,448.9,Healthcare,False,41236.25,
+LEMONTREE.NS,113.71,108.77,123.58,101,4.94,498.54,11484.71,2.0,65.8,2.9,0.22,True,23.56,2026-10-15 14:16:43,113.46,109.12,Consumer Cyclical,False,29751.54,
+INDHOTEL.NS,747.95,722.23,799.39,16,25.72,411.51,11967.2,2.0,59.5,2.8,2.14,True,21.24,2026-10-15 14:16:40,732.25,725.55,Consumer Cyclical,False,17784.34,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+SHYAMMETL.NS,1157.2,1107.97,1255.66,10,49.23,492.32,11572.0,2.0,69.2,1.78,0.98,True,20.2,2026-10-15 14:16:50,1146.0,1084.35,Basic Materials,False,6212.34,

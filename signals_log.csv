@@ -2404,3 +2404,7 @@ AEGISLOG.NS,1494.7,1381.67,1720.75,4,113.02,452.1,5978.8,2.0,59.5,4.92,0.93,True
 BHEL.NS,461.35,439.25,505.56,22,22.1,486.28,10149.7,2.0,64.5,2.89,1.18,True,26.78,2026-10-14 14:43:57,455.95,433.31,Industrials,False,24499.53,
 CPPLUS.NS,4463.0,4137.34,5114.32,1,325.66,325.66,4463.0,2.0,71.6,1.31,0.43,True,23.75,2026-10-14 14:43:55,4444.0,3963.56,Industrials,False,20036.53,⚠️ Sector Warning: You already have a signal in Industrials today — taking this one too means doubling up on the same sector's risk.
 MRPL.NS,185.28,172.65,210.55,39,12.63,492.74,7225.92,2.0,62.3,1.77,0.48,True,20.93,2026-10-14 14:44:04,184.39,173.28,Energy,False,12810.61,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
+COHANCE.NS,461.3,436.13,511.64,19,25.17,478.19,8764.7,2.0,56.2,5.93,1.16,True,36.83,2026-10-15 14:06:06,456.0,448.91,Healthcare,False,41235.3,
+LEMONTREE.NS,113.74,108.8,123.61,101,4.94,498.54,11487.74,2.0,65.8,2.99,0.25,True,23.95,2026-10-15 14:06:13,113.46,109.13,Consumer Cyclical,False,29747.56,
+INDHOTEL.NS,748.0,722.28,799.44,16,25.72,411.51,11968.0,2.0,59.5,2.83,2.15,True,21.43,2026-10-15 14:06:11,732.25,725.56,Consumer Cyclical,False,17779.56,⚠️ Sector Warning: You already have a signal in Consumer Cyclical today — taking this one too means doubling up on the same sector's risk.
+SHYAMMETL.NS,1155.0,1105.77,1253.46,10,49.23,492.32,11550.0,2.0,68.9,1.81,0.79,True,20.63,2026-10-15 14:06:19,1146.0,1084.14,Basic Materials,False,6229.56,

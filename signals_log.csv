@@ -2427,3 +2427,7 @@ GABRIEL.NS,1495.1,1419.52,1646.26,6,75.58,453.47,8970.6,2.0,65.2,14.06,2.4,True,
 PNB.NS,121.81,116.26,132.92,90,5.55,499.89,10962.9,2.0,62.9,5.36,1.81,True,36.86,2026-10-19 15:01:41,119.64,116.03,Financial Services,False,30066.5,
 HFCL.NS,268.81,247.84,310.75,23,20.97,482.29,6182.63,2.0,62.0,2.79,0.3,True,35.61,2026-10-19 15:01:36,268.0,247.18,Technology,False,23883.87,
 KARURVYSYA.NS,369.65,351.15,406.65,27,18.5,499.45,9980.55,2.0,73.1,2.11,1.02,True,19.03,2026-10-19 15:01:38,365.9,339.73,Financial Services,False,13903.32,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+GABRIEL.NS,1486.1,1410.52,1637.26,6,75.58,453.47,8916.6,2.0,64.3,14.16,1.79,False,81.33,2026-10-20 14:23:15,1460.0,1390.36,Consumer Cyclical,False,41083.4,
+PNB.NS,121.9,116.35,133.01,90,5.55,499.89,10971.0,2.0,63.1,5.23,1.89,False,36.06,2026-10-20 14:23:21,119.64,116.04,Financial Services,False,30112.4,
+HFCL.NS,268.81,247.84,310.75,23,20.97,482.29,6182.63,2.0,62.0,2.6,0.3,False,34.7,2026-10-20 14:23:15,268.0,247.18,Technology,False,23929.77,
+KARURVYSYA.NS,370.05,351.55,407.05,27,18.5,499.45,9991.35,2.0,73.3,2.08,1.13,False,18.71,2026-10-20 14:23:18,365.9,339.76,Financial Services,False,13938.42,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.

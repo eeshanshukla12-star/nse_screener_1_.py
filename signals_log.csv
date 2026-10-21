@@ -2435,3 +2435,6 @@ GABRIEL.NS,1486.1,1410.52,1637.26,6,75.58,453.47,8916.6,2.0,64.3,14.16,1.79,Fals
 PNB.NS,121.9,116.35,133.01,90,5.55,499.89,10971.0,2.0,63.1,5.23,1.89,False,36.06,2026-10-20 14:34:38,119.64,116.04,Financial Services,False,30112.4,
 HFCL.NS,268.81,247.84,310.75,23,20.97,482.29,6182.63,2.0,62.0,2.6,0.3,False,34.7,2026-10-20 14:34:28,268.0,247.18,Technology,False,23929.77,
 KARURVYSYA.NS,370.05,351.55,407.05,27,18.5,499.45,9991.35,2.0,73.3,2.08,1.13,False,18.71,2026-10-20 14:34:32,365.9,339.76,Financial Services,False,13938.42,⚠️ Sector Warning: You already have a signal in Financial Services today — taking this one too means doubling up on the same sector's risk.
+LTTS.NS,3949.0,3701.35,4444.3,2,247.65,495.3,7898.0,2.0,73.8,66.25,4.33,True,334.81,2026-10-21 14:23:28,3785.0,3464.58,Technology,False,42102.0,
+ANANDRATHI.NS,2181.3,2106.99,2329.92,5,74.31,371.54,10906.5,2.0,57.1,2.87,0.43,True,22.72,2026-10-21 14:23:16,2172.0,2139.77,Financial Services,False,31195.5,
+MPHASIS.NS,2558.8,2439.09,2798.22,4,119.71,478.84,10235.2,2.0,71.1,1.38,1.47,True,14.15,2026-10-21 14:23:30,2521.7,2387.19,Technology,False,20960.3,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.

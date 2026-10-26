@@ -2447,3 +2447,6 @@ MRPL.NS,182.76,168.94,210.4,36,13.82,497.44,6579.36,2.0,60.0,13.27,4.87,True,72.
 CHENNPETRO.NS,1533.1,1391.63,1816.04,3,141.47,424.41,4599.3,2.0,57.7,1.25,0.21,True,21.29,2026-10-26 14:52:25,1529.9,1458.96,Energy,False,38821.34,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
 ZYDUSLIFE.NS,1155.0,1106.08,1252.84,10,48.92,489.21,11550.0,2.0,54.1,2.27,0.74,True,17.41,2026-10-26 14:52:36,1146.5,1138.32,Healthcare,False,27271.34,
 INDGN.NS,602.85,572.87,662.82,16,29.98,479.74,9645.6,2.0,55.3,1.23,0.47,True,16.11,2026-10-26 14:52:28,600.0,589.88,Healthcare,False,17625.74,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
+MRPL.NS,182.88,169.06,210.52,36,13.82,497.44,6583.68,2.0,60.1,13.27,4.94,True,72.57,2026-10-26 15:06:26,174.28,170.33,Energy,False,43416.32,
+ZYDUSLIFE.NS,1155.3,1106.38,1253.14,10,48.92,489.21,11553.0,2.0,54.2,2.27,0.77,True,17.44,2026-10-26 15:06:34,1146.5,1138.35,Healthcare,False,31863.32,
+INDGN.NS,603.1,572.8,663.7,16,30.3,484.8,9649.6,2.0,55.4,1.49,0.52,True,17.4,2026-10-26 15:06:22,600.0,589.9,Healthcare,False,22213.72,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.

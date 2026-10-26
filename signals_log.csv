@@ -2443,3 +2443,7 @@ ANANDRATHI.NS,2182.5,2108.19,2331.12,5,74.31,371.54,10912.5,2.0,57.2,2.84,0.48,T
 MPHASIS.NS,2561.5,2441.79,2800.92,4,119.71,478.84,10246.0,2.0,71.3,1.34,1.58,True,13.81,2026-10-21 14:34:18,2521.7,2387.44,Technology,False,20960.1,⚠️ Sector Warning: You already have a signal in Technology today — taking this one too means doubling up on the same sector's risk.
 CYIENT.NS,1236.7,1151.94,1406.22,5,84.76,423.8,6183.5,2.0,67.0,44.74,1.0,True,243.65,2026-10-23 14:20:54,1224.4,1145.15,Industrials,False,43816.5,
 CYIENT.NS,1237.3,1152.54,1406.82,5,84.76,423.8,6186.5,2.0,67.1,43.92,1.05,True,239.46,2026-10-23 14:31:29,1224.4,1145.21,Industrials,False,43813.5,
+MRPL.NS,182.76,168.94,210.4,36,13.82,497.44,6579.36,2.0,60.0,13.27,4.87,True,72.58,2026-10-26 14:52:30,174.28,170.32,Energy,False,43420.64,
+CHENNPETRO.NS,1533.1,1391.63,1816.04,3,141.47,424.41,4599.3,2.0,57.7,1.25,0.21,True,21.29,2026-10-26 14:52:25,1529.9,1458.96,Energy,False,38821.34,⚠️ Sector Warning: You already have a signal in Energy today — taking this one too means doubling up on the same sector's risk.
+ZYDUSLIFE.NS,1155.0,1106.08,1252.84,10,48.92,489.21,11550.0,2.0,54.1,2.27,0.74,True,17.41,2026-10-26 14:52:36,1146.5,1138.32,Healthcare,False,27271.34,
+INDGN.NS,602.85,572.87,662.82,16,29.98,479.74,9645.6,2.0,55.3,1.23,0.47,True,16.11,2026-10-26 14:52:28,600.0,589.88,Healthcare,False,17625.74,⚠️ Sector Warning: You already have a signal in Healthcare today — taking this one too means doubling up on the same sector's risk.
